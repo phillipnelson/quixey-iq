@@ -13,7 +13,7 @@ The Quixey API is not a public API, so credentials have been removed. The API re
 
 ### Example flow:
 
-- Query: **"thai"**
+- Query: **thai**
 
 <img src="./screenshots/thai.png" width="300px" />
 
@@ -21,7 +21,7 @@ The Quixey API is not a public API, so credentials have been removed. The API re
 
 <img src="./screenshots/thai-delivery.png" width="300px" />
 
-- **thai** restaurants that **accept delivery orders* in *palo alto**
+- **thai** restaurants that **accept delivery orders** in **palo alto**
 
 <img src="./screenshots/thai-delivery-palo-alto.png" width="300px"  />
 
@@ -43,7 +43,7 @@ Frontend: react, bootstrap
 ## Installation
 
 
-OS X Setup
+### OS X Setup
 
 ```
 brew install node
@@ -52,27 +52,27 @@ npm install
 ```
 
 
-Build
+### Build
 
 ```
 grunt
 ```
 
-Test
+### Test
 
 ```
 grunt test
 ```
 
 
-Watch templates
+### Watch templates
 
 ```
 grunt watch
 ```
 
 
-Run
+### Run
 
 ```
 node server.js
