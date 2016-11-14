@@ -1,0 +1,1098 @@
+{
+    "debug": {
+        "errors": [],
+        "exceptions": [],
+        "info": [
+            {
+                "debugObjects": [
+                    [
+                        {
+                            "actions": null,
+                            "furl": "func://amazon.com/searchProductsByQuery/iphone",
+                            "geoLocation": null,
+                            "geolocStr": null
+                        }
+                    ]
+                ],
+                "message": "Classifying furls: ",
+                "timestamp": "2016-10-23 21:23:11.528"
+            },
+            {
+                "debugObjects": [
+                    [
+                        {
+                            "actions": null,
+                            "cloud": "apiCloud",
+                            "furl": "func://amazon.com/searchProductsByQuery/iphone",
+                            "geoLocation": null,
+                            "geoSensitivity": 0,
+                            "geolocStr": null,
+                            "ttl": 86400
+                        }
+                    ]
+                ],
+                "message": "apiCloudFurls : ",
+                "timestamp": "2016-10-23 21:23:11.528"
+            },
+            {
+                "debugObjects": [
+                    "[{\"deepViewContent\":{\"displayContent\":{\"image\":\"http://ecx.images-amazon.com/images/I/31BzJvTW8EL.jpg\",\"expires\":\"2016-12-22T07:58:27Z\",\"productId\":\"B01M1P7JXE\",\"author\":\"Apple\",\"created\":\"2016-10-23T07:58:27Z\",\"crawled\":\"2016-10-23T07:58:27Z\",\"@type\":\"Product\",\"description\":\"Keep everything you love about iPhone up to date, secure, and accessible from any device with iCloud., Multi-Touch display with IPS technology., With just a single press, 3D Touch lets you do more than ever before., The 12-megapixel iSight camera captures sharp, detailed photos. It takes 4K video, up to four times the resolution of 1080p HD video.\",\"url\":\"http://www.amazon.com/Apple-iPhone-Unlocked-32-GB/dp/B01M1P7JXE%3Fpsc%3D1%26SubscriptionId%3DAKIAJNX6RIGEYAM7BLLQ%26tag%3Dquixey03-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB01M1P7JXE\",\"@vertical\":\"Ecommerce\",\"manufacturer\":\"Apple\",\"price\":\"$649.00\",\"name\":\"Apple iPhone 7 Unlocked Phone 32 GB - US Version (Silver)\",\"@id\":\"func://amazon.com/showProductById/www.amazon.com/Apple-iPhone-Unlocked-32-GB/dp/B01M1P7JXE%3Fpsc%3D1%26SubscriptionId%3DAKIAJNX6RIGEYAM7BLLQ%26tag%3Dquixey03-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB01M1P7JXE\",\"productUrl\":\"www.amazon.com/Apple-iPhone-Unlocked-32-GB/dp/B01M1P7JXE%3Fpsc%3D1%26SubscriptionId%3DAKIAJNX6RIGEYAM7BLLQ%26tag%3Dquixey03-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB01M1P7JXE\",\"category\":\"Wireless Phone Accessory\",\"brand\":\"Apple\",\"httpStatusCode\":200},\"geoloc\":[],\"webUrl\":\"http://www.amazon.com/Apple-iPhone-Unlocked-32-GB/dp/B01M1P7JXE%3Fpsc%3D1%26SubscriptionId%3DAKIAJNX6RIGEYAM7BLLQ%26tag%3Dquixey03-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB01M1P7JXE\"},\"function\":\"func://amazon.com/showProductById\",\"furl\":\"func://amazon.com/showProductById/www.amazon.com/Apple-iPhone-Unlocked-32-GB/dp/B01M1P7JXE%3Fpsc%3D1%26SubscriptionId%3DAKIAJNX6RIGEYAM7BLLQ%26tag%3Dquixey03-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB01M1P7JXE\"},{\"deepViewContent\":{\"displayContent\":{\"image\":\"http://ecx.images-amazon.com/images/I/41g%2BNlGWbAL.jpg\",\"expires\":\"2016-12-22T07:58:27Z\",\"productId\":\"B00YD53QAE\",\"author\":\"Apple\",\"created\":\"2016-10-23T07:58:27Z\",\"crawled\":\"2016-10-23T07:58:27Z\",\"@type\":\"Product\",\"description\":\"A Certified Refurbished product has been tested and certified to work and look like new, with minimal to no signs of wear, by a manufacturer or specialized third-party seller approved by Amazon. The product is backed by a minimum 90-day warranty, and may arrive in a generic brown or white box., Factory unlocked iPhones are GSM models and are ONLY compatible with GSM carriers like AT\\u0026T and T-Mobile as well as other GSM networks around the world. They WILL NOT WORK with CDMA carriers like Sprint, Verizon and the likes. The phone requires a nano SIM card (not included in the package)., 2G: GSM 850 / 900 / 1800 / 1900, 3G: HSDPA 850 / 900 / 1700 / 1900 / 2100, 4G: LTE (carrier dependent), iOS 7 (upgradable), Dual-Core 1.3 GHz Swift (ARM v7-based) Processor, Chipset: Apple A6, PowerVR SGX 543MP3 (triple-core graphics) Graphics, 8 Megapixel Camera (3264 x 2448 pixels) w/ Autofocus \\u0026 LED Flash + Front-Facing 1.2 Megapixel Camera w/ FaceTime over Wi-Fi or Cellular, Video\",\"url\":\"http://www.amazon.com/Apple-Unlocked-Smartphone-Certified-Refurbished/dp/B00YD53QAE%3Fpsc%3D1%26SubscriptionId%3DAKIAJNX6RIGEYAM7BLLQ%26tag%3Dquixey03-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00YD53QAE\",\"@vertical\":\"Ecommerce\",\"manufacturer\":\"Apple\",\"price\":\"$339.99\",\"name\":\"Apple iPhone 5C White 16GB Unlocked GSM Smartphone (Certified Refurbished)\",\"@id\":\"func://amazon.com/showProductById/www.amazon.com/Apple-Unlocked-Smartphone-Certified-Refurbished/dp/B00YD53QAE%3Fpsc%3D1%26SubscriptionId%3DAKIAJNX6RIGEYAM7BLLQ%26tag%3Dquixey03-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00YD53QAE\",\"productUrl\":\"www.amazon.com/Apple-Unlocked-Smartphone-Certified-Refurbished/dp/B00YD53QAE%3Fpsc%3D1%26SubscriptionId%3DAKIAJNX6RIGEYAM7BLLQ%26tag%3Dquixey03-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00YD53QAE\",\"category\":\"Electronics\",\"brand\":\"Apple\",\"httpStatusCode\":200},\"geoloc\":[],\"webUrl\":\"http://www.amazon.com/Apple-Unlocked-Smartphone-Certified-Refurbished/dp/B00YD53QAE%3Fpsc%3D1%26SubscriptionId%3DAKIAJNX6RIGEYAM7BLLQ%26tag%3Dquixey03-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00YD53QAE\"},\"function\":\"func://amazon.com/showProductById\",\"furl\":\"func://amazon.com/showProductById/www.amazon.com/Apple-Unlocked-Smartphone-Certified-Refurbished/dp/B00YD53QAE%3Fpsc%3D1%26SubscriptionId%3DAKIAJNX6RIGEYAM7BLLQ%26tag%3Dquixey03-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00YD53QAE\"},{\"deepViewContent\":{\"displayContent\":{\"image\":\"http://ecx.images-amazon.com/images/I/51We979ipcL.jpg\",\"expires\":\"2016-12-22T07:58:27Z\",\"productId\":\"B00NQGP42Y\",\"author\":\"Apple\",\"created\":\"2016-10-23T07:58:27Z\",\"crawled\":\"2016-10-23T07:58:27Z\",\"@type\":\"Product\",\"description\":\"Unlocked cell phones are compatible with GSM carriers like AT\\u0026T and T-Mobile as well as with GSM SIM cards (e.g. H20, Straight Talk, and select prepaid carriers). Unlocked cell phones will not work with CDMA Carriers like Sprint, Verizon, Boost or Virgin.\",\"url\":\"http://www.amazon.com/Apple-iPhone-Factory-Unlocked-Phone/dp/B00NQGP42Y%3Fpsc%3D1%26SubscriptionId%3DAKIAJNX6RIGEYAM7BLLQ%26tag%3Dquixey03-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00NQGP42Y\",\"@vertical\":\"Ecommerce\",\"manufacturer\":\"Apple\",\"price\":\"$409.99\",\"name\":\"Apple iPhone 6 16GB Factory Unlocked GSM Cell Phone - Space Grey\",\"@id\":\"func://amazon.com/showProductById/www.amazon.com/Apple-iPhone-Factory-Unlocked-Phone/dp/B00NQGP42Y%3Fpsc%3D1%26SubscriptionId%3DAKIAJNX6RIGEYAM7BLLQ%26tag%3Dquixey03-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00NQGP42Y\",\"productUrl\":\"www.amazon.com/Apple-iPhone-Factory-Unlocked-Phone/dp/B00NQGP42Y%3Fpsc%3D1%26SubscriptionId%3DAKIAJNX6RIGEYAM7BLLQ%26tag%3Dquixey03-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00NQGP42Y\",\"category\":\"Wireless Phone\",\"brand\":\"Apple\",\"httpStatusCode\":200},\"geoloc\":[],\"webUrl\":\"http://www.amazon.com/Apple-iPhone-Factory-Unlocked-Phone/dp/B00NQGP42Y%3Fpsc%3D1%26SubscriptionId%3DAKIAJNX6RIGEYAM7BLLQ%26tag%3Dquixey03-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00NQGP42Y\"},\"function\":\"func://amazon.com/showProductById\",\"furl\":\"func://amazon.com/showProductById/www.amazon.com/Apple-iPhone-Factory-Unlocked-Phone/dp/B00NQGP42Y%3Fpsc%3D1%26SubscriptionId%3DAKIAJNX6RIGEYAM7BLLQ%26tag%3Dquixey03-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00NQGP42Y\"},{\"deepViewContent\":{\"displayContent\":{\"image\":\"http://ecx.images-amazon.com/images/I/411a0oBMlEL.jpg\",\"expires\":\"2016-12-22T07:58:27Z\",\"productId\":\"B00YD5400Y\",\"author\":\"Apple\",\"created\":\"2016-10-23T07:58:27Z\",\"crawled\":\"2016-10-23T07:58:27Z\",\"@type\":\"Product\",\"description\":\"A Certified Refurbished product has been tested and certified to work and look like new, with minimal to no signs of wear, by a manufacturer or specialized third-party seller approved by Amazon. The product is backed by a minimum 90-day warranty, and may arrive in a generic brown or white box., Factory unlocked iPhones are GSM models and are ONLY compatible with GSM carriers like AT\\u0026T and T-Mobile as well as other GSM networks around the world. They WILL NOT WORK with CDMA carriers like Sprint, Verizon and the likes. The phone requires a nano SIM card (not included in the package)., 2G: GSM 850 / 900 / 1800 / 1900, 3G: HSDPA 850 / 900 / 1700 / 1900 / 2100, 4G: LTE (bands are carrier dependent), iOS 7 (upgradable), Dual-Core 1.3 GHz Swift (ARM v7-based) Processor, Chipset: Apple A6, PowerVR SGX 543MP3 (triple-core graphics) Graphics, 8 Megapixel Camera (3264 x 2448 pixels) w/ Autofocus \\u0026 LED Flash + Front-Facing 1.2 Megapixel Camera w/ FaceTime over Wi-Fi or Cellular, Video\",\"url\":\"http://www.amazon.com/Apple-iPhone-Unlocked-Certified-Refurbished/dp/B00YD5400Y%3Fpsc%3D1%26SubscriptionId%3DAKIAJNX6RIGEYAM7BLLQ%26tag%3Dquixey03-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00YD5400Y\",\"@vertical\":\"Ecommerce\",\"manufacturer\":\"Apple\",\"price\":\"$599.99\",\"name\":\"Apple iPhone 5S 16GB GMS Unlocked, Space Gray (Certified Refurbished)\",\"@id\":\"func://amazon.com/showProductById/www.amazon.com/Apple-iPhone-Unlocked-Certified-Refurbished/dp/B00YD5400Y%3Fpsc%3D1%26SubscriptionId%3DAKIAJNX6RIGEYAM7BLLQ%26tag%3Dquixey03-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00YD5400Y\",\"productUrl\":\"www.amazon.com/Apple-iPhone-Unlocked-Certified-Refurbished/dp/B00YD5400Y%3Fpsc%3D1%26SubscriptionId%3DAKIAJNX6RIGEYAM7BLLQ%26tag%3Dquixey03-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00YD5400Y\",\"category\":\"Electronics\",\"brand\":\"Apple\",\"httpStatusCode\":200},\"geoloc\":[],\"webUrl\":\"http://www.amazon.com/Apple-iPhone-Unlocked-Certified-Refurbished/dp/B00YD5400Y%3Fpsc%3D1%26SubscriptionId%3DAKIAJNX6RIGEYAM7BLLQ%26tag%3Dquixey03-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00YD5400Y\"},\"function\":\"func://amazon.com/showProductById\",\"furl\":\"func://amazon.com/showProductById/www.amazon.com/Apple-iPhone-Unlocked-Certified-Refurbished/dp/B00YD5400Y%3Fpsc%3D1%26SubscriptionId%3DAKIAJNX6RIGEYAM7BLLQ%26tag%3Dquixey03-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00YD5400Y\"},{\"deepViewContent\":{\"displayContent\":{\"image\":\"http://ecx.images-amazon.com/images/I/51Xr4C2XmAL.jpg\",\"expires\":\"2016-12-22T07:58:27Z\",\"productId\":\"B00YD547Q6\",\"author\":\"Apple\",\"created\":\"2016-10-23T07:58:27Z\",\"crawled\":\"2016-10-23T07:58:27Z\",\"@type\":\"Product\",\"description\":\"A Certified Refurbished product has been tested and certified to work and look like new, with minimal to no signs of wear, by a manufacturer or specialized third-party seller approved by Amazon. The product is backed by a minimum 90-day warranty, and may arrive in a generic brown or white box., Factory unlocked iPhones are GSM models and are ONLY compatible with GSM carriers like AT\\u0026T and T-Mobile as well as other GSM networks around the world. They WILL NOT WORK with CDMA carriers like Sprint, Verizon and the likes. The phone requires a nano SIM card (not included in the package).\",\"url\":\"http://www.amazon.com/Apple-Unlocked-Smartphone-Certified-Refurbished/dp/B00YD547Q6%3Fpsc%3D1%26SubscriptionId%3DAKIAJNX6RIGEYAM7BLLQ%26tag%3Dquixey03-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00YD547Q6\",\"@vertical\":\"Ecommerce\",\"manufacturer\":\"Apple\",\"price\":\"$699.99\",\"name\":\"Apple iPhone 6 16GB Factory Unlocked GSM 4G LTE Smartphone, Space Grey (Certified Refurbished)\",\"@id\":\"func://amazon.com/showProductById/www.amazon.com/Apple-Unlocked-Smartphone-Certified-Refurbished/dp/B00YD547Q6%3Fpsc%3D1%26SubscriptionId%3DAKIAJNX6RIGEYAM7BLLQ%26tag%3Dquixey03-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00YD547Q6\",\"productUrl\":\"www.amazon.com/Apple-Unlocked-Smartphone-Certified-Refurbished/dp/B00YD547Q6%3Fpsc%3D1%26SubscriptionId%3DAKIAJNX6RIGEYAM7BLLQ%26tag%3Dquixey03-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00YD547Q6\",\"category\":\"Electronics\",\"brand\":\"Apple\",\"httpStatusCode\":200},\"geoloc\":[],\"webUrl\":\"http://www.amazon.com/Apple-Unlocked-Smartphone-Certified-Refurbished/dp/B00YD547Q6%3Fpsc%3D1%26SubscriptionId%3DAKIAJNX6RIGEYAM7BLLQ%26tag%3Dquixey03-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00YD547Q6\"},\"function\":\"func://amazon.com/showProductById\",\"furl\":\"func://amazon.com/showProductById/www.amazon.com/Apple-Unlocked-Smartphone-Certified-Refurbished/dp/B00YD547Q6%3Fpsc%3D1%26SubscriptionId%3DAKIAJNX6RIGEYAM7BLLQ%26tag%3Dquixey03-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00YD547Q6\"},{\"deepViewContent\":{\"displayContent\":{\"image\":\"http://ecx.images-amazon.com/images/I/41Uv1xzlJwL.jpg\",\"expires\":\"2016-12-22T07:58:27Z\",\"productId\":\"B00WZR5ULU\",\"author\":\"Apple\",\"created\":\"2016-10-23T07:58:27Z\",\"crawled\":\"2016-10-23T07:58:27Z\",\"@type\":\"Product\",\"description\":\"A Certified Refurbished product has been tested and certified to work and look like new, with minimal to no signs of wear, by a manufacturer or specialized third-party seller approved by Amazon. The product is backed by a minimum 90-day warranty, and may arrive in a generic brown or white box with generic accessories., Camera: Primary - 8 MP iSight camera, 1080p HD Video / Secondary - 1.2MP FaceTime Camera, Unlocked cell phones are compatible with GSM carriers like AT\\u0026T and T-Mobile as well as with GSM SIM cards (e.g. H20, Straight Talk, and select prepaid carriers). Unlocked cell phones will not work with CDMA Carriers like Sprint, Verizon, Boost or Virgin., iOS 6, Apple A6 Processor, 16GB Memory, 4.0 inch Retina LED-backlit IPS LCD capacitive touchscreen display\",\"url\":\"http://www.amazon.com/Apple-iPhone-16GB-Certified-Refurbished/dp/B00WZR5ULU%3Fpsc%3D1%26SubscriptionId%3DAKIAJNX6RIGEYAM7BLLQ%26tag%3Dquixey03-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00WZR5ULU\",\"@vertical\":\"Ecommerce\",\"manufacturer\":\"Apple\",\"price\":\"$699.99\",\"name\":\"Apple iPhone 5 16GB - Unlocked - White (Certified Refurbished)\",\"@id\":\"func://amazon.com/showProductById/www.amazon.com/Apple-iPhone-16GB-Certified-Refurbished/dp/B00WZR5ULU%3Fpsc%3D1%26SubscriptionId%3DAKIAJNX6RIGEYAM7BLLQ%26tag%3Dquixey03-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00WZR5ULU\",\"productUrl\":\"www.amazon.com/Apple-iPhone-16GB-Certified-Refurbished/dp/B00WZR5ULU%3Fpsc%3D1%26SubscriptionId%3DAKIAJNX6RIGEYAM7BLLQ%26tag%3Dquixey03-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00WZR5ULU\",\"category\":\"Wireless Phone Accessory\",\"brand\":\"Apple\",\"httpStatusCode\":200},\"geoloc\":[],\"webUrl\":\"http://www.amazon.com/Apple-iPhone-16GB-Certified-Refurbished/dp/B00WZR5ULU%3Fpsc%3D1%26SubscriptionId%3DAKIAJNX6RIGEYAM7BLLQ%26tag%3Dquixey03-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00WZR5ULU\"},\"function\":\"func://amazon.com/showProductById\",\"furl\":\"func://amazon.com/showProductById/www.amazon.com/Apple-iPhone-16GB-Certified-Refurbished/dp/B00WZR5ULU%3Fpsc%3D1%26SubscriptionId%3DAKIAJNX6RIGEYAM7BLLQ%26tag%3Dquixey03-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00WZR5ULU\"},{\"deepViewContent\":{\"displayContent\":{\"expires\":\"2016-12-22T07:58:27Z\",\"productId\":\"B01J8PBEUM\",\"author\":\"Apple\",\"created\":\"2016-10-23T07:58:27Z\",\"crawled\":\"2016-10-23T07:58:27Z\",\"@type\":\"Product\",\"description\":\"A Certified Refurbished product has been tested and certified to work and look like new, with minimal to no signs of wear, by a manufacturer or specialized third-party seller approved by Amazon. The product is backed by a minimum 90-day warranty, and may arrive in a generic brown or white box with generic accessories., Comes with Easy to use iOS 9 with refinements at every level from the apps you see on your Home screendownto the foundation of the system, This Certified Refurbished product is tested and certified to look and work like new. The refurbishing process includes functionality testing, basic cleaning, inspection, and repackaging. The product ships with all relevant accessories, a minimum 90-day warranty, and may arrive in a generic box with generic accessories. Only select sellers who maintain a high performance bar may offer Certified Refurbished products on Amazon.com, Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi hotspot, Bluetooth: v4.2, A2DP, LE, USB: v2.0, reversible connector, GPS: with A-GPS, GLONASS, Browser: HTML (Safari), Messaging: iMessage, SMS (threaded view), MMS, Email, Push Email. iPhone 6s is powered by the custom-designed 64-bit A9 chip.- delivers 70% more CPU performance.\",\"url\":\"http://www.amazon.com/Apple-iPhone-Unlocked-Smartphone-Camera/dp/B01J8PBEUM%3Fpsc%3D1%26SubscriptionId%3DAKIAJNX6RIGEYAM7BLLQ%26tag%3Dquixey03-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB01J8PBEUM\",\"@vertical\":\"Ecommerce\",\"manufacturer\":\"Apple\",\"price\":\"$569.99\",\"name\":\"Apple iPhone 6s 16GB Unlocked GSM 4G LTE Smartphone w/12MP Camera - Rose Gold (Certified Refurbished)\",\"@id\":\"func://amazon.com/showProductById/www.amazon.com/Apple-iPhone-Unlocked-Smartphone-Camera/dp/B01J8PBEUM%3Fpsc%3D1%26SubscriptionId%3DAKIAJNX6RIGEYAM7BLLQ%26tag%3Dquixey03-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB01J8PBEUM\",\"productUrl\":\"www.amazon.com/Apple-iPhone-Unlocked-Smartphone-Camera/dp/B01J8PBEUM%3Fpsc%3D1%26SubscriptionId%3DAKIAJNX6RIGEYAM7BLLQ%26tag%3Dquixey03-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB01J8PBEUM\",\"category\":\"Wireless Phone Accessory\",\"brand\":\"Apple\",\"httpStatusCode\":200},\"geoloc\":[],\"webUrl\":\"http://www.amazon.com/Apple-iPhone-Unlocked-Smartphone-Camera/dp/B01J8PBEUM%3Fpsc%3D1%26SubscriptionId%3DAKIAJNX6RIGEYAM7BLLQ%26tag%3Dquixey03-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB01J8PBEUM\"},\"function\":\"func://amazon.com/showProductById\",\"furl\":\"func://amazon.com/showProductById/www.amazon.com/Apple-iPhone-Unlocked-Smartphone-Camera/dp/B01J8PBEUM%3Fpsc%3D1%26SubscriptionId%3DAKIAJNX6RIGEYAM7BLLQ%26tag%3Dquixey03-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB01J8PBEUM\"},{\"deepViewContent\":{\"displayContent\":{\"image\":\"http://ecx.images-amazon.com/images/I/41thg-HYBLL.jpg\",\"expires\":\"2016-12-22T07:58:27Z\",\"productId\":\"B010S9N6OO\",\"author\":\"AmazonBasics\",\"created\":\"2016-10-23T07:58:27Z\",\"crawled\":\"2016-10-23T07:58:27Z\",\"@type\":\"Product\",\"description\":\"Apple MFi certified charging and syncing cable for your Apple devices, Apple MFi certification ensures complete charge and sync compatibility with iPhone 7 Plus / 7 / 6s Plus / 6s / 6 Plus / 6 / 5s / 5c / 5 / iPad Pro / iPad Air / Air 2 / iPad mini / mini 2 / mini 4 / iPad 4th gen / iPod Touch 5th gen / iPod nano 7th gen and Beats Pill+, Connects to your iPhone, iPad, or iPod with Lightning Connector and charges/syncs by connecting the USB connector into your wall charger or computer, Compact Lightning Connector head works with nearly all cases, An additional layer of protection has been added to the Lightning and USB ends to improve durability and reduce fraying; Cables have been tested to bend 95-degrees 4,000 times, Backed by an AmazonBasics 1-Year Limited Warranty\",\"url\":\"http://www.amazon.com/AmazonBasics-Apple-Certified-Lightning-Cable/dp/B010S9N6OO%3Fpsc%3D1%26SubscriptionId%3DAKIAJNX6RIGEYAM7BLLQ%26tag%3Dquixey03-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB010S9N6OO\",\"@vertical\":\"Ecommerce\",\"manufacturer\":\"AmazonBasics\",\"price\":\"$7.99\",\"name\":\"AmazonBasics Apple Certified Lightning to USB Cable - 6 Feet (1.8 Meters) - White\",\"@id\":\"func://amazon.com/showProductById/www.amazon.com/AmazonBasics-Apple-Certified-Lightning-Cable/dp/B010S9N6OO%3Fpsc%3D1%26SubscriptionId%3DAKIAJNX6RIGEYAM7BLLQ%26tag%3Dquixey03-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB010S9N6OO\",\"productUrl\":\"www.amazon.com/AmazonBasics-Apple-Certified-Lightning-Cable/dp/B010S9N6OO%3Fpsc%3D1%26SubscriptionId%3DAKIAJNX6RIGEYAM7BLLQ%26tag%3Dquixey03-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB010S9N6OO\",\"category\":\"Wireless Phone Accessory\",\"brand\":\"AmazonBasics\",\"httpStatusCode\":200},\"geoloc\":[],\"webUrl\":\"http://www.amazon.com/AmazonBasics-Apple-Certified-Lightning-Cable/dp/B010S9N6OO%3Fpsc%3D1%26SubscriptionId%3DAKIAJNX6RIGEYAM7BLLQ%26tag%3Dquixey03-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB010S9N6OO\"},\"function\":\"func://amazon.com/showProductById\",\"furl\":\"func://amazon.com/showProductById/www.amazon.com/AmazonBasics-Apple-Certified-Lightning-Cable/dp/B010S9N6OO%3Fpsc%3D1%26SubscriptionId%3DAKIAJNX6RIGEYAM7BLLQ%26tag%3Dquixey03-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB010S9N6OO\"},{\"deepViewContent\":{\"displayContent\":{\"image\":\"http://ecx.images-amazon.com/images/I/515TE1kAhkL.jpg\",\"expires\":\"2016-12-22T07:58:27Z\",\"productId\":\"B00F3J4B5S\",\"author\":\"Apple\",\"created\":\"2016-10-23T07:58:27Z\",\"crawled\":\"2016-10-23T07:58:27Z\",\"@type\":\"Product\",\"description\":\"A7 chip with M7 motion coprocessor,16 GB Storage Capacity (12.2 GB Available) \\u0026 1 GB Ram, Touch ID fingerprint sensor, 8MP iSight camera with True Tone flash and 1080p HD video recording, Unlocked cell phones are compatible with GSM carriers like AT\\u0026T and T-Mobile as well as with GSM SIM cards (e.g. H20 and select prepaid carriers). Unlocked cell phones will not work with CDMA Carriers like Sprint, Verizon, Boost or Virgin., A7 chip with M7 motion coprocessor,16 GB Storage Capacity (12.2 GB Available), Touch ID fingerprint sensor, 8MP iSight camera with True Tone flash and 1080p HD video recording, Unlocked cell phones are compatible with GSM carriers like AT\\u0026T and T-Mobile as well as with GSM SIM cards (e.g. H20, Straight Talk and select prepaid carriers). Unlocked cell phones will not work with CDMA Carriers like Sprint, Verizon, Boost or Virgin.\",\"url\":\"http://www.amazon.com/Apple-iPhone-Unlocked-Cellphone-Space/dp/B00F3J4B5S%3Fpsc%3D1%26SubscriptionId%3DAKIAJNX6RIGEYAM7BLLQ%26tag%3Dquixey03-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00F3J4B5S\",\"@vertical\":\"Ecommerce\",\"manufacturer\":\"Apple\",\"price\":\"$629.99\",\"name\":\"Apple iPhone 5s Unlocked Cellphone, 16 GB, Space Gray\",\"@id\":\"func://amazon.com/showProductById/www.amazon.com/Apple-iPhone-Unlocked-Cellphone-Space/dp/B00F3J4B5S%3Fpsc%3D1%26SubscriptionId%3DAKIAJNX6RIGEYAM7BLLQ%26tag%3Dquixey03-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00F3J4B5S\",\"productUrl\":\"www.amazon.com/Apple-iPhone-Unlocked-Cellphone-Space/dp/B00F3J4B5S%3Fpsc%3D1%26SubscriptionId%3DAKIAJNX6RIGEYAM7BLLQ%26tag%3Dquixey03-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00F3J4B5S\",\"category\":\"Wireless Phone Accessory\",\"brand\":\"Apple\",\"httpStatusCode\":200},\"geoloc\":[],\"webUrl\":\"http://www.amazon.com/Apple-iPhone-Unlocked-Cellphone-Space/dp/B00F3J4B5S%3Fpsc%3D1%26SubscriptionId%3DAKIAJNX6RIGEYAM7BLLQ%26tag%3Dquixey03-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00F3J4B5S\"},\"function\":\"func://amazon.com/showProductById\",\"furl\":\"func://amazon.com/showProductById/www.amazon.com/Apple-iPhone-Unlocked-Cellphone-Space/dp/B00F3J4B5S%3Fpsc%3D1%26SubscriptionId%3DAKIAJNX6RIGEYAM7BLLQ%26tag%3Dquixey03-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00F3J4B5S\"},{\"deepViewContent\":{\"displayContent\":{\"image\":\"http://ecx.images-amazon.com/images/I/51lIJjG5DYL.jpg\",\"expires\":\"2016-12-22T07:58:27Z\",\"productId\":\"B00F3J4KYA\",\"author\":\"Apple\",\"created\":\"2016-10-23T07:58:27Z\",\"crawled\":\"2016-10-23T07:58:27Z\",\"@type\":\"Product\",\"description\":\"Cellular Band - Quad-Band 850 / 900 / 1800 / 1900 Mhz, Cellular Band 3G - 850 / 900 / 1800 / 1900 / 2100 Mhz\",\"url\":\"http://www.amazon.com/Apple-iPhone-Unlocked-Cellphone-Space/dp/B00F3J4KYA%3Fpsc%3D1%26SubscriptionId%3DAKIAJNX6RIGEYAM7BLLQ%26tag%3Dquixey03-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00F3J4KYA\",\"@vertical\":\"Ecommerce\",\"manufacturer\":\"Apple\",\"price\":\"$429.99\",\"name\":\"Apple iPhone 5s Unlocked Cellphone, 32 GB, Space Gray\",\"@id\":\"func://amazon.com/showProductById/www.amazon.com/Apple-iPhone-Unlocked-Cellphone-Space/dp/B00F3J4KYA%3Fpsc%3D1%26SubscriptionId%3DAKIAJNX6RIGEYAM7BLLQ%26tag%3Dquixey03-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00F3J4KYA\",\"productUrl\":\"www.amazon.com/Apple-iPhone-Unlocked-Cellphone-Space/dp/B00F3J4KYA%3Fpsc%3D1%26SubscriptionId%3DAKIAJNX6RIGEYAM7BLLQ%26tag%3Dquixey03-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00F3J4KYA\",\"category\":\"Electronics\",\"brand\":\"Apple\",\"httpStatusCode\":200},\"geoloc\":[],\"webUrl\":\"http://www.amazon.com/Apple-iPhone-Unlocked-Cellphone-Space/dp/B00F3J4KYA%3Fpsc%3D1%26SubscriptionId%3DAKIAJNX6RIGEYAM7BLLQ%26tag%3Dquixey03-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00F3J4KYA\"},\"function\":\"func://amazon.com/showProductById\",\"furl\":\"func://amazon.com/showProductById/www.amazon.com/Apple-iPhone-Unlocked-Cellphone-Space/dp/B00F3J4KYA%3Fpsc%3D1%26SubscriptionId%3DAKIAJNX6RIGEYAM7BLLQ%26tag%3Dquixey03-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00F3J4KYA\"}] created = 1477209507736 ttloneMinute = 86400"
+                ],
+                "message": "Found apiCloud cloud DV Content in Cassandra Cache for func://amazon.com/searchProductsByQuery/iphone\nGot content:",
+                "timestamp": "2016-10-23 21:23:11.531"
+            },
+            {
+                "message": "Could not parse spsdependency data = com.amazon.mobile.shopping.web://{productUrl}",
+                "timestamp": "2016-10-23 21:23:11.532"
+            },
+            {
+                "message": "Could not parse spsdependency data = com.amazon.mobile.shopping.web://{productUrl}",
+                "timestamp": "2016-10-23 21:23:11.532"
+            },
+            {
+                "message": "Could not parse spsdependency data = com.amazon.mobile.shopping.web://{productUrl}",
+                "timestamp": "2016-10-23 21:23:11.532"
+            },
+            {
+                "message": "Could not parse spsdependency data = com.amazon.mobile.shopping.web://{productUrl}",
+                "timestamp": "2016-10-23 21:23:11.532"
+            },
+            {
+                "message": "Could not parse spsdependency data = com.amazon.mobile.shopping.web://{productUrl}",
+                "timestamp": "2016-10-23 21:23:11.533"
+            },
+            {
+                "message": "Could not parse spsdependency data = com.amazon.mobile.shopping.web://{productUrl}",
+                "timestamp": "2016-10-23 21:23:11.533"
+            },
+            {
+                "message": "Could not parse spsdependency data = com.amazon.mobile.shopping.web://{productUrl}",
+                "timestamp": "2016-10-23 21:23:11.533"
+            },
+            {
+                "message": "Could not parse spsdependency data = com.amazon.mobile.shopping.web://{productUrl}",
+                "timestamp": "2016-10-23 21:23:11.533"
+            },
+            {
+                "message": "Could not parse spsdependency data = com.amazon.mobile.shopping.web://{productUrl}",
+                "timestamp": "2016-10-23 21:23:11.533"
+            },
+            {
+                "message": "Could not parse spsdependency data = com.amazon.mobile.shopping.web://{productUrl}",
+                "timestamp": "2016-10-23 21:23:11.533"
+            },
+            {
+                "message": "Could not parse spsdependency data = null",
+                "timestamp": "2016-10-23 21:23:11.533"
+            },
+            {
+                "debugObjects": [
+                    [
+                        338283922872794701
+                    ]
+                ],
+                "message": "Querying the cassandra app table for app ids ",
+                "timestamp": "2016-10-23 21:23:11.533"
+            },
+            {
+                "message": "Call to Cassandra for App Editions successful. Got 1 results",
+                "timestamp": "2016-10-23 21:23:11.535"
+            }
+        ],
+        "warnings": []
+    },
+    "deepViewCards": {
+        "func://amazon.com/searchProductsByQuery/iphone": {
+            "cardContent": {
+                "appName": "Amazon",
+                "deepViews": [
+                    {
+                        "deepViewContent": {
+                            "displayContent": {
+                                "@id": "func://amazon.com/showProductById/www.amazon.com/Apple-iPhone-Unlocked-32-GB/dp/B01M1P7JXE%3Fpsc%3D1%26SubscriptionId%3DAKIAJNX6RIGEYAM7BLLQ%26tag%3Dquixey03-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB01M1P7JXE",
+                                "@type": "Product",
+                                "@vertical": "Ecommerce",
+                                "author": "Apple",
+                                "brand": "Apple",
+                                "category": "Wireless Phone Accessory",
+                                "crawled": "2016-10-23T07:58:27Z",
+                                "created": "2016-10-23T07:58:27Z",
+                                "description": "Keep everything you love about iPhone up to date, secure, and accessible from any device with iCloud., Multi-Touch display with IPS technology., With just a single press, 3D Touch lets you do more than ever before., The 12-megapixel iSight camera captures sharp, detailed photos. It takes 4K video, up to four times the resolution of 1080p HD video.",
+                                "expires": "2016-12-22T07:58:27Z",
+                                "httpStatusCode": 200,
+                                "image": "http://ecx.images-amazon.com/images/I/31BzJvTW8EL.jpg",
+                                "manufacturer": "Apple",
+                                "name": "Apple iPhone 7 Unlocked Phone 32 GB - US Version (Silver)",
+                                "price": "$649.00",
+                                "productId": "B01M1P7JXE",
+                                "productUrl": "www.amazon.com/Apple-iPhone-Unlocked-32-GB/dp/B01M1P7JXE%3Fpsc%3D1%26SubscriptionId%3DAKIAJNX6RIGEYAM7BLLQ%26tag%3Dquixey03-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB01M1P7JXE",
+                                "url": "http://www.amazon.com/Apple-iPhone-Unlocked-32-GB/dp/B01M1P7JXE%3Fpsc%3D1%26SubscriptionId%3DAKIAJNX6RIGEYAM7BLLQ%26tag%3Dquixey03-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB01M1P7JXE"
+                            },
+                            "geoloc": [],
+                            "webUrl": "http://www.amazon.com/Apple-iPhone-Unlocked-32-GB/dp/B01M1P7JXE%3Fpsc%3D1%26SubscriptionId%3DAKIAJNX6RIGEYAM7BLLQ%26tag%3Dquixey03-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB01M1P7JXE"
+                        },
+                        "deviceActions": [],
+                        "entitySchema": "Product",
+                        "functionName": "",
+                        "furl": "func://amazon.com/showProductById/www.amazon.com/Apple-iPhone-Unlocked-32-GB/dp/B01M1P7JXE%3Fpsc%3D1%26SubscriptionId%3DAKIAJNX6RIGEYAM7BLLQ%26tag%3Dquixey03-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB01M1P7JXE",
+                        "stateAccessInfo": [
+                            {
+                                "accessUrl": "com.amazon.mobile.shopping.web://www.amazon.com/Apple-iPhone-Unlocked-32-GB/dp/B01M1P7JXE?psc=1&SubscriptionId=AKIAJNX6RIGEYAM7BLLQ&tag=quixey03-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B01M1P7JXE",
+                                "component": "com.amazon.mShop.details.ProductDetailsActivity",
+                                "editions": [
+                                    {
+                                        "editionId": "qedition://googleplay/com.amazon.mShop.android.shopping?minVersion=5030101&maxVersion=5030101",
+                                        "maxVersion": "5030101",
+                                        "minVersion": "5030101",
+                                        "packageName": "com.amazon.mShop.android.shopping",
+                                        "platform": "android"
+                                    }
+                                ],
+                                "extras": [],
+                                "jar": "StandardJSONIntent.jar",
+                                "method": "launchIntentViaJSON"
+                            },
+                            {
+                                "accessUrl": "com.amazon.mobile.shopping.web://www.amazon.com/Apple-iPhone-Unlocked-32-GB/dp/B01M1P7JXE?psc=1&SubscriptionId=AKIAJNX6RIGEYAM7BLLQ&tag=quixey03-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B01M1P7JXE",
+                                "editions": [
+                                    {
+                                        "editionId": "qedition://googleplay/com.amazon.mShop.android.shopping?minVersion=7141410&maxVersion=7141410",
+                                        "maxVersion": "7141410",
+                                        "minVersion": "7141410",
+                                        "packageName": "com.amazon.mShop.android.shopping",
+                                        "platform": "android"
+                                    },
+                                    {
+                                        "editionId": "qedition://googleplay/com.amazon.mShop.android.shopping?minVersion=9436810&maxVersion=9436810",
+                                        "maxVersion": "9436810",
+                                        "minVersion": "9436810",
+                                        "packageName": "com.amazon.mShop.android.shopping",
+                                        "platform": "android"
+                                    },
+                                    {
+                                        "editionId": "qedition://googleplay/com.amazon.mShop.android.shopping?minVersion=10459110&maxVersion=10459110",
+                                        "maxVersion": "10459110",
+                                        "minVersion": "10459110",
+                                        "packageName": "com.amazon.mShop.android.shopping",
+                                        "platform": "android"
+                                    },
+                                    {
+                                        "editionId": "qedition://googleplay/com.amazon.mShop.android.shopping?minVersion=12277010&maxVersion=12277010",
+                                        "maxVersion": "12277010",
+                                        "minVersion": "12277010",
+                                        "packageName": "com.amazon.mShop.android.shopping",
+                                        "platform": "android"
+                                    },
+                                    {
+                                        "editionId": "qedition://googleplay/com.amazon.mShop.android.shopping?minVersion=13228910&maxVersion=13228910",
+                                        "maxVersion": "13228910",
+                                        "minVersion": "13228910",
+                                        "packageName": "com.amazon.mShop.android.shopping",
+                                        "platform": "android"
+                                    }
+                                ],
+                                "uri": "com.amazon.mobile.shopping.web://www.amazon.com/Apple-iPhone-Unlocked-32-GB/dp/B01M1P7JXE?psc=1&SubscriptionId=AKIAJNX6RIGEYAM7BLLQ&tag=quixey03-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B01M1P7JXE"
+                            }
+                        ],
+                        "useEntitySchema": true
+                    },
+                    {
+                        "deepViewContent": {
+                            "displayContent": {
+                                "@id": "func://amazon.com/showProductById/www.amazon.com/Apple-Unlocked-Smartphone-Certified-Refurbished/dp/B00YD53QAE%3Fpsc%3D1%26SubscriptionId%3DAKIAJNX6RIGEYAM7BLLQ%26tag%3Dquixey03-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00YD53QAE",
+                                "@type": "Product",
+                                "@vertical": "Ecommerce",
+                                "author": "Apple",
+                                "brand": "Apple",
+                                "category": "Electronics",
+                                "crawled": "2016-10-23T07:58:27Z",
+                                "created": "2016-10-23T07:58:27Z",
+                                "description": "A Certified Refurbished product has been tested and certified to work and look like new, with minimal to no signs of wear, by a manufacturer or specialized third-party seller approved by Amazon. The product is backed by a minimum 90-day warranty, and may arrive in a generic brown or white box., Factory unlocked iPhones are GSM models and are ONLY compatible with GSM carriers like AT&T and T-Mobile as well as other GSM networks around the world. They WILL NOT WORK with CDMA carriers like Sprint, Verizon and the likes. The phone requires a nano SIM card (not included in the package)., 2G: GSM 850 / 900 / 1800 / 1900, 3G: HSDPA 850 / 900 / 1700 / 1900 / 2100, 4G: LTE (carrier dependent), iOS 7 (upgradable), Dual-Core 1.3 GHz Swift (ARM v7-based) Processor, Chipset: Apple A6, PowerVR SGX 543MP3 (triple-core graphics) Graphics, 8 Megapixel Camera (3264 x 2448 pixels) w/ Autofocus & LED Flash + Front-Facing 1.2 Megapixel Camera w/ FaceTime over Wi-Fi or Cellular, Video",
+                                "expires": "2016-12-22T07:58:27Z",
+                                "httpStatusCode": 200,
+                                "image": "http://ecx.images-amazon.com/images/I/41g%2BNlGWbAL.jpg",
+                                "manufacturer": "Apple",
+                                "name": "Apple iPhone 5C White 16GB Unlocked GSM Smartphone (Certified Refurbished)",
+                                "price": "$339.99",
+                                "productId": "B00YD53QAE",
+                                "productUrl": "www.amazon.com/Apple-Unlocked-Smartphone-Certified-Refurbished/dp/B00YD53QAE%3Fpsc%3D1%26SubscriptionId%3DAKIAJNX6RIGEYAM7BLLQ%26tag%3Dquixey03-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00YD53QAE",
+                                "url": "http://www.amazon.com/Apple-Unlocked-Smartphone-Certified-Refurbished/dp/B00YD53QAE%3Fpsc%3D1%26SubscriptionId%3DAKIAJNX6RIGEYAM7BLLQ%26tag%3Dquixey03-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00YD53QAE"
+                            },
+                            "geoloc": [],
+                            "webUrl": "http://www.amazon.com/Apple-Unlocked-Smartphone-Certified-Refurbished/dp/B00YD53QAE%3Fpsc%3D1%26SubscriptionId%3DAKIAJNX6RIGEYAM7BLLQ%26tag%3Dquixey03-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00YD53QAE"
+                        },
+                        "deviceActions": [],
+                        "entitySchema": "Product",
+                        "functionName": "",
+                        "furl": "func://amazon.com/showProductById/www.amazon.com/Apple-Unlocked-Smartphone-Certified-Refurbished/dp/B00YD53QAE%3Fpsc%3D1%26SubscriptionId%3DAKIAJNX6RIGEYAM7BLLQ%26tag%3Dquixey03-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00YD53QAE",
+                        "stateAccessInfo": [
+                            {
+                                "accessUrl": "com.amazon.mobile.shopping.web://www.amazon.com/Apple-Unlocked-Smartphone-Certified-Refurbished/dp/B00YD53QAE?psc=1&SubscriptionId=AKIAJNX6RIGEYAM7BLLQ&tag=quixey03-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B00YD53QAE",
+                                "component": "com.amazon.mShop.details.ProductDetailsActivity",
+                                "editions": [
+                                    {
+                                        "editionId": "qedition://googleplay/com.amazon.mShop.android.shopping?minVersion=5030101&maxVersion=5030101",
+                                        "maxVersion": "5030101",
+                                        "minVersion": "5030101",
+                                        "packageName": "com.amazon.mShop.android.shopping",
+                                        "platform": "android"
+                                    }
+                                ],
+                                "extras": [],
+                                "jar": "StandardJSONIntent.jar",
+                                "method": "launchIntentViaJSON"
+                            },
+                            {
+                                "accessUrl": "com.amazon.mobile.shopping.web://www.amazon.com/Apple-Unlocked-Smartphone-Certified-Refurbished/dp/B00YD53QAE?psc=1&SubscriptionId=AKIAJNX6RIGEYAM7BLLQ&tag=quixey03-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B00YD53QAE",
+                                "editions": [
+                                    {
+                                        "editionId": "qedition://googleplay/com.amazon.mShop.android.shopping?minVersion=7141410&maxVersion=7141410",
+                                        "maxVersion": "7141410",
+                                        "minVersion": "7141410",
+                                        "packageName": "com.amazon.mShop.android.shopping",
+                                        "platform": "android"
+                                    },
+                                    {
+                                        "editionId": "qedition://googleplay/com.amazon.mShop.android.shopping?minVersion=9436810&maxVersion=9436810",
+                                        "maxVersion": "9436810",
+                                        "minVersion": "9436810",
+                                        "packageName": "com.amazon.mShop.android.shopping",
+                                        "platform": "android"
+                                    },
+                                    {
+                                        "editionId": "qedition://googleplay/com.amazon.mShop.android.shopping?minVersion=10459110&maxVersion=10459110",
+                                        "maxVersion": "10459110",
+                                        "minVersion": "10459110",
+                                        "packageName": "com.amazon.mShop.android.shopping",
+                                        "platform": "android"
+                                    },
+                                    {
+                                        "editionId": "qedition://googleplay/com.amazon.mShop.android.shopping?minVersion=12277010&maxVersion=12277010",
+                                        "maxVersion": "12277010",
+                                        "minVersion": "12277010",
+                                        "packageName": "com.amazon.mShop.android.shopping",
+                                        "platform": "android"
+                                    },
+                                    {
+                                        "editionId": "qedition://googleplay/com.amazon.mShop.android.shopping?minVersion=13228910&maxVersion=13228910",
+                                        "maxVersion": "13228910",
+                                        "minVersion": "13228910",
+                                        "packageName": "com.amazon.mShop.android.shopping",
+                                        "platform": "android"
+                                    }
+                                ],
+                                "uri": "com.amazon.mobile.shopping.web://www.amazon.com/Apple-Unlocked-Smartphone-Certified-Refurbished/dp/B00YD53QAE?psc=1&SubscriptionId=AKIAJNX6RIGEYAM7BLLQ&tag=quixey03-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B00YD53QAE"
+                            }
+                        ],
+                        "useEntitySchema": true
+                    },
+                    {
+                        "deepViewContent": {
+                            "displayContent": {
+                                "@id": "func://amazon.com/showProductById/www.amazon.com/Apple-iPhone-Factory-Unlocked-Phone/dp/B00NQGP42Y%3Fpsc%3D1%26SubscriptionId%3DAKIAJNX6RIGEYAM7BLLQ%26tag%3Dquixey03-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00NQGP42Y",
+                                "@type": "Product",
+                                "@vertical": "Ecommerce",
+                                "author": "Apple",
+                                "brand": "Apple",
+                                "category": "Wireless Phone",
+                                "crawled": "2016-10-23T07:58:27Z",
+                                "created": "2016-10-23T07:58:27Z",
+                                "description": "Unlocked cell phones are compatible with GSM carriers like AT&T and T-Mobile as well as with GSM SIM cards (e.g. H20, Straight Talk, and select prepaid carriers). Unlocked cell phones will not work with CDMA Carriers like Sprint, Verizon, Boost or Virgin.",
+                                "expires": "2016-12-22T07:58:27Z",
+                                "httpStatusCode": 200,
+                                "image": "http://ecx.images-amazon.com/images/I/51We979ipcL.jpg",
+                                "manufacturer": "Apple",
+                                "name": "Apple iPhone 6 16GB Factory Unlocked GSM Cell Phone - Space Grey",
+                                "price": "$409.99",
+                                "productId": "B00NQGP42Y",
+                                "productUrl": "www.amazon.com/Apple-iPhone-Factory-Unlocked-Phone/dp/B00NQGP42Y%3Fpsc%3D1%26SubscriptionId%3DAKIAJNX6RIGEYAM7BLLQ%26tag%3Dquixey03-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00NQGP42Y",
+                                "url": "http://www.amazon.com/Apple-iPhone-Factory-Unlocked-Phone/dp/B00NQGP42Y%3Fpsc%3D1%26SubscriptionId%3DAKIAJNX6RIGEYAM7BLLQ%26tag%3Dquixey03-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00NQGP42Y"
+                            },
+                            "geoloc": [],
+                            "webUrl": "http://www.amazon.com/Apple-iPhone-Factory-Unlocked-Phone/dp/B00NQGP42Y%3Fpsc%3D1%26SubscriptionId%3DAKIAJNX6RIGEYAM7BLLQ%26tag%3Dquixey03-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00NQGP42Y"
+                        },
+                        "deviceActions": [],
+                        "entitySchema": "Product",
+                        "functionName": "",
+                        "furl": "func://amazon.com/showProductById/www.amazon.com/Apple-iPhone-Factory-Unlocked-Phone/dp/B00NQGP42Y%3Fpsc%3D1%26SubscriptionId%3DAKIAJNX6RIGEYAM7BLLQ%26tag%3Dquixey03-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00NQGP42Y",
+                        "stateAccessInfo": [
+                            {
+                                "accessUrl": "com.amazon.mobile.shopping.web://www.amazon.com/Apple-iPhone-Factory-Unlocked-Phone/dp/B00NQGP42Y?psc=1&SubscriptionId=AKIAJNX6RIGEYAM7BLLQ&tag=quixey03-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B00NQGP42Y",
+                                "component": "com.amazon.mShop.details.ProductDetailsActivity",
+                                "editions": [
+                                    {
+                                        "editionId": "qedition://googleplay/com.amazon.mShop.android.shopping?minVersion=5030101&maxVersion=5030101",
+                                        "maxVersion": "5030101",
+                                        "minVersion": "5030101",
+                                        "packageName": "com.amazon.mShop.android.shopping",
+                                        "platform": "android"
+                                    }
+                                ],
+                                "extras": [],
+                                "jar": "StandardJSONIntent.jar",
+                                "method": "launchIntentViaJSON"
+                            },
+                            {
+                                "accessUrl": "com.amazon.mobile.shopping.web://www.amazon.com/Apple-iPhone-Factory-Unlocked-Phone/dp/B00NQGP42Y?psc=1&SubscriptionId=AKIAJNX6RIGEYAM7BLLQ&tag=quixey03-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B00NQGP42Y",
+                                "editions": [
+                                    {
+                                        "editionId": "qedition://googleplay/com.amazon.mShop.android.shopping?minVersion=7141410&maxVersion=7141410",
+                                        "maxVersion": "7141410",
+                                        "minVersion": "7141410",
+                                        "packageName": "com.amazon.mShop.android.shopping",
+                                        "platform": "android"
+                                    },
+                                    {
+                                        "editionId": "qedition://googleplay/com.amazon.mShop.android.shopping?minVersion=9436810&maxVersion=9436810",
+                                        "maxVersion": "9436810",
+                                        "minVersion": "9436810",
+                                        "packageName": "com.amazon.mShop.android.shopping",
+                                        "platform": "android"
+                                    },
+                                    {
+                                        "editionId": "qedition://googleplay/com.amazon.mShop.android.shopping?minVersion=10459110&maxVersion=10459110",
+                                        "maxVersion": "10459110",
+                                        "minVersion": "10459110",
+                                        "packageName": "com.amazon.mShop.android.shopping",
+                                        "platform": "android"
+                                    },
+                                    {
+                                        "editionId": "qedition://googleplay/com.amazon.mShop.android.shopping?minVersion=12277010&maxVersion=12277010",
+                                        "maxVersion": "12277010",
+                                        "minVersion": "12277010",
+                                        "packageName": "com.amazon.mShop.android.shopping",
+                                        "platform": "android"
+                                    },
+                                    {
+                                        "editionId": "qedition://googleplay/com.amazon.mShop.android.shopping?minVersion=13228910&maxVersion=13228910",
+                                        "maxVersion": "13228910",
+                                        "minVersion": "13228910",
+                                        "packageName": "com.amazon.mShop.android.shopping",
+                                        "platform": "android"
+                                    }
+                                ],
+                                "uri": "com.amazon.mobile.shopping.web://www.amazon.com/Apple-iPhone-Factory-Unlocked-Phone/dp/B00NQGP42Y?psc=1&SubscriptionId=AKIAJNX6RIGEYAM7BLLQ&tag=quixey03-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B00NQGP42Y"
+                            }
+                        ],
+                        "useEntitySchema": true
+                    },
+                    {
+                        "deepViewContent": {
+                            "displayContent": {
+                                "@id": "func://amazon.com/showProductById/www.amazon.com/Apple-iPhone-Unlocked-Certified-Refurbished/dp/B00YD5400Y%3Fpsc%3D1%26SubscriptionId%3DAKIAJNX6RIGEYAM7BLLQ%26tag%3Dquixey03-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00YD5400Y",
+                                "@type": "Product",
+                                "@vertical": "Ecommerce",
+                                "author": "Apple",
+                                "brand": "Apple",
+                                "category": "Electronics",
+                                "crawled": "2016-10-23T07:58:27Z",
+                                "created": "2016-10-23T07:58:27Z",
+                                "description": "A Certified Refurbished product has been tested and certified to work and look like new, with minimal to no signs of wear, by a manufacturer or specialized third-party seller approved by Amazon. The product is backed by a minimum 90-day warranty, and may arrive in a generic brown or white box., Factory unlocked iPhones are GSM models and are ONLY compatible with GSM carriers like AT&T and T-Mobile as well as other GSM networks around the world. They WILL NOT WORK with CDMA carriers like Sprint, Verizon and the likes. The phone requires a nano SIM card (not included in the package)., 2G: GSM 850 / 900 / 1800 / 1900, 3G: HSDPA 850 / 900 / 1700 / 1900 / 2100, 4G: LTE (bands are carrier dependent), iOS 7 (upgradable), Dual-Core 1.3 GHz Swift (ARM v7-based) Processor, Chipset: Apple A6, PowerVR SGX 543MP3 (triple-core graphics) Graphics, 8 Megapixel Camera (3264 x 2448 pixels) w/ Autofocus & LED Flash + Front-Facing 1.2 Megapixel Camera w/ FaceTime over Wi-Fi or Cellular, Video",
+                                "expires": "2016-12-22T07:58:27Z",
+                                "httpStatusCode": 200,
+                                "image": "http://ecx.images-amazon.com/images/I/411a0oBMlEL.jpg",
+                                "manufacturer": "Apple",
+                                "name": "Apple iPhone 5S 16GB GMS Unlocked, Space Gray (Certified Refurbished)",
+                                "price": "$599.99",
+                                "productId": "B00YD5400Y",
+                                "productUrl": "www.amazon.com/Apple-iPhone-Unlocked-Certified-Refurbished/dp/B00YD5400Y%3Fpsc%3D1%26SubscriptionId%3DAKIAJNX6RIGEYAM7BLLQ%26tag%3Dquixey03-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00YD5400Y",
+                                "url": "http://www.amazon.com/Apple-iPhone-Unlocked-Certified-Refurbished/dp/B00YD5400Y%3Fpsc%3D1%26SubscriptionId%3DAKIAJNX6RIGEYAM7BLLQ%26tag%3Dquixey03-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00YD5400Y"
+                            },
+                            "geoloc": [],
+                            "webUrl": "http://www.amazon.com/Apple-iPhone-Unlocked-Certified-Refurbished/dp/B00YD5400Y%3Fpsc%3D1%26SubscriptionId%3DAKIAJNX6RIGEYAM7BLLQ%26tag%3Dquixey03-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00YD5400Y"
+                        },
+                        "deviceActions": [],
+                        "entitySchema": "Product",
+                        "functionName": "",
+                        "furl": "func://amazon.com/showProductById/www.amazon.com/Apple-iPhone-Unlocked-Certified-Refurbished/dp/B00YD5400Y%3Fpsc%3D1%26SubscriptionId%3DAKIAJNX6RIGEYAM7BLLQ%26tag%3Dquixey03-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00YD5400Y",
+                        "stateAccessInfo": [
+                            {
+                                "accessUrl": "com.amazon.mobile.shopping.web://www.amazon.com/Apple-iPhone-Unlocked-Certified-Refurbished/dp/B00YD5400Y?psc=1&SubscriptionId=AKIAJNX6RIGEYAM7BLLQ&tag=quixey03-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B00YD5400Y",
+                                "component": "com.amazon.mShop.details.ProductDetailsActivity",
+                                "editions": [
+                                    {
+                                        "editionId": "qedition://googleplay/com.amazon.mShop.android.shopping?minVersion=5030101&maxVersion=5030101",
+                                        "maxVersion": "5030101",
+                                        "minVersion": "5030101",
+                                        "packageName": "com.amazon.mShop.android.shopping",
+                                        "platform": "android"
+                                    }
+                                ],
+                                "extras": [],
+                                "jar": "StandardJSONIntent.jar",
+                                "method": "launchIntentViaJSON"
+                            },
+                            {
+                                "accessUrl": "com.amazon.mobile.shopping.web://www.amazon.com/Apple-iPhone-Unlocked-Certified-Refurbished/dp/B00YD5400Y?psc=1&SubscriptionId=AKIAJNX6RIGEYAM7BLLQ&tag=quixey03-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B00YD5400Y",
+                                "editions": [
+                                    {
+                                        "editionId": "qedition://googleplay/com.amazon.mShop.android.shopping?minVersion=7141410&maxVersion=7141410",
+                                        "maxVersion": "7141410",
+                                        "minVersion": "7141410",
+                                        "packageName": "com.amazon.mShop.android.shopping",
+                                        "platform": "android"
+                                    },
+                                    {
+                                        "editionId": "qedition://googleplay/com.amazon.mShop.android.shopping?minVersion=9436810&maxVersion=9436810",
+                                        "maxVersion": "9436810",
+                                        "minVersion": "9436810",
+                                        "packageName": "com.amazon.mShop.android.shopping",
+                                        "platform": "android"
+                                    },
+                                    {
+                                        "editionId": "qedition://googleplay/com.amazon.mShop.android.shopping?minVersion=10459110&maxVersion=10459110",
+                                        "maxVersion": "10459110",
+                                        "minVersion": "10459110",
+                                        "packageName": "com.amazon.mShop.android.shopping",
+                                        "platform": "android"
+                                    },
+                                    {
+                                        "editionId": "qedition://googleplay/com.amazon.mShop.android.shopping?minVersion=12277010&maxVersion=12277010",
+                                        "maxVersion": "12277010",
+                                        "minVersion": "12277010",
+                                        "packageName": "com.amazon.mShop.android.shopping",
+                                        "platform": "android"
+                                    },
+                                    {
+                                        "editionId": "qedition://googleplay/com.amazon.mShop.android.shopping?minVersion=13228910&maxVersion=13228910",
+                                        "maxVersion": "13228910",
+                                        "minVersion": "13228910",
+                                        "packageName": "com.amazon.mShop.android.shopping",
+                                        "platform": "android"
+                                    }
+                                ],
+                                "uri": "com.amazon.mobile.shopping.web://www.amazon.com/Apple-iPhone-Unlocked-Certified-Refurbished/dp/B00YD5400Y?psc=1&SubscriptionId=AKIAJNX6RIGEYAM7BLLQ&tag=quixey03-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B00YD5400Y"
+                            }
+                        ],
+                        "useEntitySchema": true
+                    },
+                    {
+                        "deepViewContent": {
+                            "displayContent": {
+                                "@id": "func://amazon.com/showProductById/www.amazon.com/Apple-Unlocked-Smartphone-Certified-Refurbished/dp/B00YD547Q6%3Fpsc%3D1%26SubscriptionId%3DAKIAJNX6RIGEYAM7BLLQ%26tag%3Dquixey03-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00YD547Q6",
+                                "@type": "Product",
+                                "@vertical": "Ecommerce",
+                                "author": "Apple",
+                                "brand": "Apple",
+                                "category": "Electronics",
+                                "crawled": "2016-10-23T07:58:27Z",
+                                "created": "2016-10-23T07:58:27Z",
+                                "description": "A Certified Refurbished product has been tested and certified to work and look like new, with minimal to no signs of wear, by a manufacturer or specialized third-party seller approved by Amazon. The product is backed by a minimum 90-day warranty, and may arrive in a generic brown or white box., Factory unlocked iPhones are GSM models and are ONLY compatible with GSM carriers like AT&T and T-Mobile as well as other GSM networks around the world. They WILL NOT WORK with CDMA carriers like Sprint, Verizon and the likes. The phone requires a nano SIM card (not included in the package).",
+                                "expires": "2016-12-22T07:58:27Z",
+                                "httpStatusCode": 200,
+                                "image": "http://ecx.images-amazon.com/images/I/51Xr4C2XmAL.jpg",
+                                "manufacturer": "Apple",
+                                "name": "Apple iPhone 6 16GB Factory Unlocked GSM 4G LTE Smartphone, Space Grey (Certified Refurbished)",
+                                "price": "$699.99",
+                                "productId": "B00YD547Q6",
+                                "productUrl": "www.amazon.com/Apple-Unlocked-Smartphone-Certified-Refurbished/dp/B00YD547Q6%3Fpsc%3D1%26SubscriptionId%3DAKIAJNX6RIGEYAM7BLLQ%26tag%3Dquixey03-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00YD547Q6",
+                                "url": "http://www.amazon.com/Apple-Unlocked-Smartphone-Certified-Refurbished/dp/B00YD547Q6%3Fpsc%3D1%26SubscriptionId%3DAKIAJNX6RIGEYAM7BLLQ%26tag%3Dquixey03-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00YD547Q6"
+                            },
+                            "geoloc": [],
+                            "webUrl": "http://www.amazon.com/Apple-Unlocked-Smartphone-Certified-Refurbished/dp/B00YD547Q6%3Fpsc%3D1%26SubscriptionId%3DAKIAJNX6RIGEYAM7BLLQ%26tag%3Dquixey03-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00YD547Q6"
+                        },
+                        "deviceActions": [],
+                        "entitySchema": "Product",
+                        "functionName": "",
+                        "furl": "func://amazon.com/showProductById/www.amazon.com/Apple-Unlocked-Smartphone-Certified-Refurbished/dp/B00YD547Q6%3Fpsc%3D1%26SubscriptionId%3DAKIAJNX6RIGEYAM7BLLQ%26tag%3Dquixey03-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00YD547Q6",
+                        "stateAccessInfo": [
+                            {
+                                "accessUrl": "com.amazon.mobile.shopping.web://www.amazon.com/Apple-Unlocked-Smartphone-Certified-Refurbished/dp/B00YD547Q6?psc=1&SubscriptionId=AKIAJNX6RIGEYAM7BLLQ&tag=quixey03-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B00YD547Q6",
+                                "component": "com.amazon.mShop.details.ProductDetailsActivity",
+                                "editions": [
+                                    {
+                                        "editionId": "qedition://googleplay/com.amazon.mShop.android.shopping?minVersion=5030101&maxVersion=5030101",
+                                        "maxVersion": "5030101",
+                                        "minVersion": "5030101",
+                                        "packageName": "com.amazon.mShop.android.shopping",
+                                        "platform": "android"
+                                    }
+                                ],
+                                "extras": [],
+                                "jar": "StandardJSONIntent.jar",
+                                "method": "launchIntentViaJSON"
+                            },
+                            {
+                                "accessUrl": "com.amazon.mobile.shopping.web://www.amazon.com/Apple-Unlocked-Smartphone-Certified-Refurbished/dp/B00YD547Q6?psc=1&SubscriptionId=AKIAJNX6RIGEYAM7BLLQ&tag=quixey03-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B00YD547Q6",
+                                "editions": [
+                                    {
+                                        "editionId": "qedition://googleplay/com.amazon.mShop.android.shopping?minVersion=7141410&maxVersion=7141410",
+                                        "maxVersion": "7141410",
+                                        "minVersion": "7141410",
+                                        "packageName": "com.amazon.mShop.android.shopping",
+                                        "platform": "android"
+                                    },
+                                    {
+                                        "editionId": "qedition://googleplay/com.amazon.mShop.android.shopping?minVersion=9436810&maxVersion=9436810",
+                                        "maxVersion": "9436810",
+                                        "minVersion": "9436810",
+                                        "packageName": "com.amazon.mShop.android.shopping",
+                                        "platform": "android"
+                                    },
+                                    {
+                                        "editionId": "qedition://googleplay/com.amazon.mShop.android.shopping?minVersion=10459110&maxVersion=10459110",
+                                        "maxVersion": "10459110",
+                                        "minVersion": "10459110",
+                                        "packageName": "com.amazon.mShop.android.shopping",
+                                        "platform": "android"
+                                    },
+                                    {
+                                        "editionId": "qedition://googleplay/com.amazon.mShop.android.shopping?minVersion=12277010&maxVersion=12277010",
+                                        "maxVersion": "12277010",
+                                        "minVersion": "12277010",
+                                        "packageName": "com.amazon.mShop.android.shopping",
+                                        "platform": "android"
+                                    },
+                                    {
+                                        "editionId": "qedition://googleplay/com.amazon.mShop.android.shopping?minVersion=13228910&maxVersion=13228910",
+                                        "maxVersion": "13228910",
+                                        "minVersion": "13228910",
+                                        "packageName": "com.amazon.mShop.android.shopping",
+                                        "platform": "android"
+                                    }
+                                ],
+                                "uri": "com.amazon.mobile.shopping.web://www.amazon.com/Apple-Unlocked-Smartphone-Certified-Refurbished/dp/B00YD547Q6?psc=1&SubscriptionId=AKIAJNX6RIGEYAM7BLLQ&tag=quixey03-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B00YD547Q6"
+                            }
+                        ],
+                        "useEntitySchema": true
+                    },
+                    {
+                        "deepViewContent": {
+                            "displayContent": {
+                                "@id": "func://amazon.com/showProductById/www.amazon.com/Apple-iPhone-16GB-Certified-Refurbished/dp/B00WZR5ULU%3Fpsc%3D1%26SubscriptionId%3DAKIAJNX6RIGEYAM7BLLQ%26tag%3Dquixey03-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00WZR5ULU",
+                                "@type": "Product",
+                                "@vertical": "Ecommerce",
+                                "author": "Apple",
+                                "brand": "Apple",
+                                "category": "Wireless Phone Accessory",
+                                "crawled": "2016-10-23T07:58:27Z",
+                                "created": "2016-10-23T07:58:27Z",
+                                "description": "A Certified Refurbished product has been tested and certified to work and look like new, with minimal to no signs of wear, by a manufacturer or specialized third-party seller approved by Amazon. The product is backed by a minimum 90-day warranty, and may arrive in a generic brown or white box with generic accessories., Camera: Primary - 8 MP iSight camera, 1080p HD Video / Secondary - 1.2MP FaceTime Camera, Unlocked cell phones are compatible with GSM carriers like AT&T and T-Mobile as well as with GSM SIM cards (e.g. H20, Straight Talk, and select prepaid carriers). Unlocked cell phones will not work with CDMA Carriers like Sprint, Verizon, Boost or Virgin., iOS 6, Apple A6 Processor, 16GB Memory, 4.0 inch Retina LED-backlit IPS LCD capacitive touchscreen display",
+                                "expires": "2016-12-22T07:58:27Z",
+                                "httpStatusCode": 200,
+                                "image": "http://ecx.images-amazon.com/images/I/41Uv1xzlJwL.jpg",
+                                "manufacturer": "Apple",
+                                "name": "Apple iPhone 5 16GB - Unlocked - White (Certified Refurbished)",
+                                "price": "$699.99",
+                                "productId": "B00WZR5ULU",
+                                "productUrl": "www.amazon.com/Apple-iPhone-16GB-Certified-Refurbished/dp/B00WZR5ULU%3Fpsc%3D1%26SubscriptionId%3DAKIAJNX6RIGEYAM7BLLQ%26tag%3Dquixey03-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00WZR5ULU",
+                                "url": "http://www.amazon.com/Apple-iPhone-16GB-Certified-Refurbished/dp/B00WZR5ULU%3Fpsc%3D1%26SubscriptionId%3DAKIAJNX6RIGEYAM7BLLQ%26tag%3Dquixey03-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00WZR5ULU"
+                            },
+                            "geoloc": [],
+                            "webUrl": "http://www.amazon.com/Apple-iPhone-16GB-Certified-Refurbished/dp/B00WZR5ULU%3Fpsc%3D1%26SubscriptionId%3DAKIAJNX6RIGEYAM7BLLQ%26tag%3Dquixey03-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00WZR5ULU"
+                        },
+                        "deviceActions": [],
+                        "entitySchema": "Product",
+                        "functionName": "",
+                        "furl": "func://amazon.com/showProductById/www.amazon.com/Apple-iPhone-16GB-Certified-Refurbished/dp/B00WZR5ULU%3Fpsc%3D1%26SubscriptionId%3DAKIAJNX6RIGEYAM7BLLQ%26tag%3Dquixey03-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00WZR5ULU",
+                        "stateAccessInfo": [
+                            {
+                                "accessUrl": "com.amazon.mobile.shopping.web://www.amazon.com/Apple-iPhone-16GB-Certified-Refurbished/dp/B00WZR5ULU?psc=1&SubscriptionId=AKIAJNX6RIGEYAM7BLLQ&tag=quixey03-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B00WZR5ULU",
+                                "component": "com.amazon.mShop.details.ProductDetailsActivity",
+                                "editions": [
+                                    {
+                                        "editionId": "qedition://googleplay/com.amazon.mShop.android.shopping?minVersion=5030101&maxVersion=5030101",
+                                        "maxVersion": "5030101",
+                                        "minVersion": "5030101",
+                                        "packageName": "com.amazon.mShop.android.shopping",
+                                        "platform": "android"
+                                    }
+                                ],
+                                "extras": [],
+                                "jar": "StandardJSONIntent.jar",
+                                "method": "launchIntentViaJSON"
+                            },
+                            {
+                                "accessUrl": "com.amazon.mobile.shopping.web://www.amazon.com/Apple-iPhone-16GB-Certified-Refurbished/dp/B00WZR5ULU?psc=1&SubscriptionId=AKIAJNX6RIGEYAM7BLLQ&tag=quixey03-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B00WZR5ULU",
+                                "editions": [
+                                    {
+                                        "editionId": "qedition://googleplay/com.amazon.mShop.android.shopping?minVersion=7141410&maxVersion=7141410",
+                                        "maxVersion": "7141410",
+                                        "minVersion": "7141410",
+                                        "packageName": "com.amazon.mShop.android.shopping",
+                                        "platform": "android"
+                                    },
+                                    {
+                                        "editionId": "qedition://googleplay/com.amazon.mShop.android.shopping?minVersion=9436810&maxVersion=9436810",
+                                        "maxVersion": "9436810",
+                                        "minVersion": "9436810",
+                                        "packageName": "com.amazon.mShop.android.shopping",
+                                        "platform": "android"
+                                    },
+                                    {
+                                        "editionId": "qedition://googleplay/com.amazon.mShop.android.shopping?minVersion=10459110&maxVersion=10459110",
+                                        "maxVersion": "10459110",
+                                        "minVersion": "10459110",
+                                        "packageName": "com.amazon.mShop.android.shopping",
+                                        "platform": "android"
+                                    },
+                                    {
+                                        "editionId": "qedition://googleplay/com.amazon.mShop.android.shopping?minVersion=12277010&maxVersion=12277010",
+                                        "maxVersion": "12277010",
+                                        "minVersion": "12277010",
+                                        "packageName": "com.amazon.mShop.android.shopping",
+                                        "platform": "android"
+                                    },
+                                    {
+                                        "editionId": "qedition://googleplay/com.amazon.mShop.android.shopping?minVersion=13228910&maxVersion=13228910",
+                                        "maxVersion": "13228910",
+                                        "minVersion": "13228910",
+                                        "packageName": "com.amazon.mShop.android.shopping",
+                                        "platform": "android"
+                                    }
+                                ],
+                                "uri": "com.amazon.mobile.shopping.web://www.amazon.com/Apple-iPhone-16GB-Certified-Refurbished/dp/B00WZR5ULU?psc=1&SubscriptionId=AKIAJNX6RIGEYAM7BLLQ&tag=quixey03-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B00WZR5ULU"
+                            }
+                        ],
+                        "useEntitySchema": true
+                    },
+                    {
+                        "deepViewContent": {
+                            "displayContent": {
+                                "@id": "func://amazon.com/showProductById/www.amazon.com/Apple-iPhone-Unlocked-Smartphone-Camera/dp/B01J8PBEUM%3Fpsc%3D1%26SubscriptionId%3DAKIAJNX6RIGEYAM7BLLQ%26tag%3Dquixey03-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB01J8PBEUM",
+                                "@type": "Product",
+                                "@vertical": "Ecommerce",
+                                "author": "Apple",
+                                "brand": "Apple",
+                                "category": "Wireless Phone Accessory",
+                                "crawled": "2016-10-23T07:58:27Z",
+                                "created": "2016-10-23T07:58:27Z",
+                                "description": "A Certified Refurbished product has been tested and certified to work and look like new, with minimal to no signs of wear, by a manufacturer or specialized third-party seller approved by Amazon. The product is backed by a minimum 90-day warranty, and may arrive in a generic brown or white box with generic accessories., Comes with Easy to use iOS 9 with refinements at every level from the apps you see on your Home screendownto the foundation of the system, This Certified Refurbished product is tested and certified to look and work like new. The refurbishing process includes functionality testing, basic cleaning, inspection, and repackaging. The product ships with all relevant accessories, a minimum 90-day warranty, and may arrive in a generic box with generic accessories. Only select sellers who maintain a high performance bar may offer Certified Refurbished products on Amazon.com, Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi hotspot, Bluetooth: v4.2, A2DP, LE, USB: v2.0, reversible connector, GPS: with A-GPS, GLONASS, Browser: HTML (Safari), Messaging: iMessage, SMS (threaded view), MMS, Email, Push Email. iPhone 6s is powered by the custom-designed 64-bit A9 chip.- delivers 70% more CPU performance.",
+                                "expires": "2016-12-22T07:58:27Z",
+                                "httpStatusCode": 200,
+                                "manufacturer": "Apple",
+                                "name": "Apple iPhone 6s 16GB Unlocked GSM 4G LTE Smartphone w/12MP Camera - Rose Gold (Certified Refurbished)",
+                                "price": "$569.99",
+                                "productId": "B01J8PBEUM",
+                                "productUrl": "www.amazon.com/Apple-iPhone-Unlocked-Smartphone-Camera/dp/B01J8PBEUM%3Fpsc%3D1%26SubscriptionId%3DAKIAJNX6RIGEYAM7BLLQ%26tag%3Dquixey03-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB01J8PBEUM",
+                                "url": "http://www.amazon.com/Apple-iPhone-Unlocked-Smartphone-Camera/dp/B01J8PBEUM%3Fpsc%3D1%26SubscriptionId%3DAKIAJNX6RIGEYAM7BLLQ%26tag%3Dquixey03-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB01J8PBEUM"
+                            },
+                            "geoloc": [],
+                            "webUrl": "http://www.amazon.com/Apple-iPhone-Unlocked-Smartphone-Camera/dp/B01J8PBEUM%3Fpsc%3D1%26SubscriptionId%3DAKIAJNX6RIGEYAM7BLLQ%26tag%3Dquixey03-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB01J8PBEUM"
+                        },
+                        "deviceActions": [],
+                        "entitySchema": "Product",
+                        "functionName": "",
+                        "furl": "func://amazon.com/showProductById/www.amazon.com/Apple-iPhone-Unlocked-Smartphone-Camera/dp/B01J8PBEUM%3Fpsc%3D1%26SubscriptionId%3DAKIAJNX6RIGEYAM7BLLQ%26tag%3Dquixey03-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB01J8PBEUM",
+                        "stateAccessInfo": [
+                            {
+                                "accessUrl": "com.amazon.mobile.shopping.web://www.amazon.com/Apple-iPhone-Unlocked-Smartphone-Camera/dp/B01J8PBEUM?psc=1&SubscriptionId=AKIAJNX6RIGEYAM7BLLQ&tag=quixey03-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B01J8PBEUM",
+                                "component": "com.amazon.mShop.details.ProductDetailsActivity",
+                                "editions": [
+                                    {
+                                        "editionId": "qedition://googleplay/com.amazon.mShop.android.shopping?minVersion=5030101&maxVersion=5030101",
+                                        "maxVersion": "5030101",
+                                        "minVersion": "5030101",
+                                        "packageName": "com.amazon.mShop.android.shopping",
+                                        "platform": "android"
+                                    }
+                                ],
+                                "extras": [],
+                                "jar": "StandardJSONIntent.jar",
+                                "method": "launchIntentViaJSON"
+                            },
+                            {
+                                "accessUrl": "com.amazon.mobile.shopping.web://www.amazon.com/Apple-iPhone-Unlocked-Smartphone-Camera/dp/B01J8PBEUM?psc=1&SubscriptionId=AKIAJNX6RIGEYAM7BLLQ&tag=quixey03-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B01J8PBEUM",
+                                "editions": [
+                                    {
+                                        "editionId": "qedition://googleplay/com.amazon.mShop.android.shopping?minVersion=7141410&maxVersion=7141410",
+                                        "maxVersion": "7141410",
+                                        "minVersion": "7141410",
+                                        "packageName": "com.amazon.mShop.android.shopping",
+                                        "platform": "android"
+                                    },
+                                    {
+                                        "editionId": "qedition://googleplay/com.amazon.mShop.android.shopping?minVersion=9436810&maxVersion=9436810",
+                                        "maxVersion": "9436810",
+                                        "minVersion": "9436810",
+                                        "packageName": "com.amazon.mShop.android.shopping",
+                                        "platform": "android"
+                                    },
+                                    {
+                                        "editionId": "qedition://googleplay/com.amazon.mShop.android.shopping?minVersion=10459110&maxVersion=10459110",
+                                        "maxVersion": "10459110",
+                                        "minVersion": "10459110",
+                                        "packageName": "com.amazon.mShop.android.shopping",
+                                        "platform": "android"
+                                    },
+                                    {
+                                        "editionId": "qedition://googleplay/com.amazon.mShop.android.shopping?minVersion=12277010&maxVersion=12277010",
+                                        "maxVersion": "12277010",
+                                        "minVersion": "12277010",
+                                        "packageName": "com.amazon.mShop.android.shopping",
+                                        "platform": "android"
+                                    },
+                                    {
+                                        "editionId": "qedition://googleplay/com.amazon.mShop.android.shopping?minVersion=13228910&maxVersion=13228910",
+                                        "maxVersion": "13228910",
+                                        "minVersion": "13228910",
+                                        "packageName": "com.amazon.mShop.android.shopping",
+                                        "platform": "android"
+                                    }
+                                ],
+                                "uri": "com.amazon.mobile.shopping.web://www.amazon.com/Apple-iPhone-Unlocked-Smartphone-Camera/dp/B01J8PBEUM?psc=1&SubscriptionId=AKIAJNX6RIGEYAM7BLLQ&tag=quixey03-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B01J8PBEUM"
+                            }
+                        ],
+                        "useEntitySchema": true
+                    },
+                    {
+                        "deepViewContent": {
+                            "displayContent": {
+                                "@id": "func://amazon.com/showProductById/www.amazon.com/AmazonBasics-Apple-Certified-Lightning-Cable/dp/B010S9N6OO%3Fpsc%3D1%26SubscriptionId%3DAKIAJNX6RIGEYAM7BLLQ%26tag%3Dquixey03-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB010S9N6OO",
+                                "@type": "Product",
+                                "@vertical": "Ecommerce",
+                                "author": "AmazonBasics",
+                                "brand": "AmazonBasics",
+                                "category": "Wireless Phone Accessory",
+                                "crawled": "2016-10-23T07:58:27Z",
+                                "created": "2016-10-23T07:58:27Z",
+                                "description": "Apple MFi certified charging and syncing cable for your Apple devices, Apple MFi certification ensures complete charge and sync compatibility with iPhone 7 Plus / 7 / 6s Plus / 6s / 6 Plus / 6 / 5s / 5c / 5 / iPad Pro / iPad Air / Air 2 / iPad mini / mini 2 / mini 4 / iPad 4th gen / iPod Touch 5th gen / iPod nano 7th gen and Beats Pill+, Connects to your iPhone, iPad, or iPod with Lightning Connector and charges/syncs by connecting the USB connector into your wall charger or computer, Compact Lightning Connector head works with nearly all cases, An additional layer of protection has been added to the Lightning and USB ends to improve durability and reduce fraying; Cables have been tested to bend 95-degrees 4,000 times, Backed by an AmazonBasics 1-Year Limited Warranty",
+                                "expires": "2016-12-22T07:58:27Z",
+                                "httpStatusCode": 200,
+                                "image": "http://ecx.images-amazon.com/images/I/41thg-HYBLL.jpg",
+                                "manufacturer": "AmazonBasics",
+                                "name": "AmazonBasics Apple Certified Lightning to USB Cable - 6 Feet (1.8 Meters) - White",
+                                "price": "$7.99",
+                                "productId": "B010S9N6OO",
+                                "productUrl": "www.amazon.com/AmazonBasics-Apple-Certified-Lightning-Cable/dp/B010S9N6OO%3Fpsc%3D1%26SubscriptionId%3DAKIAJNX6RIGEYAM7BLLQ%26tag%3Dquixey03-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB010S9N6OO",
+                                "url": "http://www.amazon.com/AmazonBasics-Apple-Certified-Lightning-Cable/dp/B010S9N6OO%3Fpsc%3D1%26SubscriptionId%3DAKIAJNX6RIGEYAM7BLLQ%26tag%3Dquixey03-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB010S9N6OO"
+                            },
+                            "geoloc": [],
+                            "webUrl": "http://www.amazon.com/AmazonBasics-Apple-Certified-Lightning-Cable/dp/B010S9N6OO%3Fpsc%3D1%26SubscriptionId%3DAKIAJNX6RIGEYAM7BLLQ%26tag%3Dquixey03-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB010S9N6OO"
+                        },
+                        "deviceActions": [],
+                        "entitySchema": "Product",
+                        "functionName": "",
+                        "furl": "func://amazon.com/showProductById/www.amazon.com/AmazonBasics-Apple-Certified-Lightning-Cable/dp/B010S9N6OO%3Fpsc%3D1%26SubscriptionId%3DAKIAJNX6RIGEYAM7BLLQ%26tag%3Dquixey03-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB010S9N6OO",
+                        "stateAccessInfo": [
+                            {
+                                "accessUrl": "com.amazon.mobile.shopping.web://www.amazon.com/AmazonBasics-Apple-Certified-Lightning-Cable/dp/B010S9N6OO?psc=1&SubscriptionId=AKIAJNX6RIGEYAM7BLLQ&tag=quixey03-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B010S9N6OO",
+                                "component": "com.amazon.mShop.details.ProductDetailsActivity",
+                                "editions": [
+                                    {
+                                        "editionId": "qedition://googleplay/com.amazon.mShop.android.shopping?minVersion=5030101&maxVersion=5030101",
+                                        "maxVersion": "5030101",
+                                        "minVersion": "5030101",
+                                        "packageName": "com.amazon.mShop.android.shopping",
+                                        "platform": "android"
+                                    }
+                                ],
+                                "extras": [],
+                                "jar": "StandardJSONIntent.jar",
+                                "method": "launchIntentViaJSON"
+                            },
+                            {
+                                "accessUrl": "com.amazon.mobile.shopping.web://www.amazon.com/AmazonBasics-Apple-Certified-Lightning-Cable/dp/B010S9N6OO?psc=1&SubscriptionId=AKIAJNX6RIGEYAM7BLLQ&tag=quixey03-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B010S9N6OO",
+                                "editions": [
+                                    {
+                                        "editionId": "qedition://googleplay/com.amazon.mShop.android.shopping?minVersion=7141410&maxVersion=7141410",
+                                        "maxVersion": "7141410",
+                                        "minVersion": "7141410",
+                                        "packageName": "com.amazon.mShop.android.shopping",
+                                        "platform": "android"
+                                    },
+                                    {
+                                        "editionId": "qedition://googleplay/com.amazon.mShop.android.shopping?minVersion=9436810&maxVersion=9436810",
+                                        "maxVersion": "9436810",
+                                        "minVersion": "9436810",
+                                        "packageName": "com.amazon.mShop.android.shopping",
+                                        "platform": "android"
+                                    },
+                                    {
+                                        "editionId": "qedition://googleplay/com.amazon.mShop.android.shopping?minVersion=10459110&maxVersion=10459110",
+                                        "maxVersion": "10459110",
+                                        "minVersion": "10459110",
+                                        "packageName": "com.amazon.mShop.android.shopping",
+                                        "platform": "android"
+                                    },
+                                    {
+                                        "editionId": "qedition://googleplay/com.amazon.mShop.android.shopping?minVersion=12277010&maxVersion=12277010",
+                                        "maxVersion": "12277010",
+                                        "minVersion": "12277010",
+                                        "packageName": "com.amazon.mShop.android.shopping",
+                                        "platform": "android"
+                                    },
+                                    {
+                                        "editionId": "qedition://googleplay/com.amazon.mShop.android.shopping?minVersion=13228910&maxVersion=13228910",
+                                        "maxVersion": "13228910",
+                                        "minVersion": "13228910",
+                                        "packageName": "com.amazon.mShop.android.shopping",
+                                        "platform": "android"
+                                    }
+                                ],
+                                "uri": "com.amazon.mobile.shopping.web://www.amazon.com/AmazonBasics-Apple-Certified-Lightning-Cable/dp/B010S9N6OO?psc=1&SubscriptionId=AKIAJNX6RIGEYAM7BLLQ&tag=quixey03-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B010S9N6OO"
+                            }
+                        ],
+                        "useEntitySchema": true
+                    },
+                    {
+                        "deepViewContent": {
+                            "displayContent": {
+                                "@id": "func://amazon.com/showProductById/www.amazon.com/Apple-iPhone-Unlocked-Cellphone-Space/dp/B00F3J4B5S%3Fpsc%3D1%26SubscriptionId%3DAKIAJNX6RIGEYAM7BLLQ%26tag%3Dquixey03-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00F3J4B5S",
+                                "@type": "Product",
+                                "@vertical": "Ecommerce",
+                                "author": "Apple",
+                                "brand": "Apple",
+                                "category": "Wireless Phone Accessory",
+                                "crawled": "2016-10-23T07:58:27Z",
+                                "created": "2016-10-23T07:58:27Z",
+                                "description": "A7 chip with M7 motion coprocessor,16 GB Storage Capacity (12.2 GB Available) & 1 GB Ram, Touch ID fingerprint sensor, 8MP iSight camera with True Tone flash and 1080p HD video recording, Unlocked cell phones are compatible with GSM carriers like AT&T and T-Mobile as well as with GSM SIM cards (e.g. H20 and select prepaid carriers). Unlocked cell phones will not work with CDMA Carriers like Sprint, Verizon, Boost or Virgin., A7 chip with M7 motion coprocessor,16 GB Storage Capacity (12.2 GB Available), Touch ID fingerprint sensor, 8MP iSight camera with True Tone flash and 1080p HD video recording, Unlocked cell phones are compatible with GSM carriers like AT&T and T-Mobile as well as with GSM SIM cards (e.g. H20, Straight Talk and select prepaid carriers). Unlocked cell phones will not work with CDMA Carriers like Sprint, Verizon, Boost or Virgin.",
+                                "expires": "2016-12-22T07:58:27Z",
+                                "httpStatusCode": 200,
+                                "image": "http://ecx.images-amazon.com/images/I/515TE1kAhkL.jpg",
+                                "manufacturer": "Apple",
+                                "name": "Apple iPhone 5s Unlocked Cellphone, 16 GB, Space Gray",
+                                "price": "$629.99",
+                                "productId": "B00F3J4B5S",
+                                "productUrl": "www.amazon.com/Apple-iPhone-Unlocked-Cellphone-Space/dp/B00F3J4B5S%3Fpsc%3D1%26SubscriptionId%3DAKIAJNX6RIGEYAM7BLLQ%26tag%3Dquixey03-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00F3J4B5S",
+                                "url": "http://www.amazon.com/Apple-iPhone-Unlocked-Cellphone-Space/dp/B00F3J4B5S%3Fpsc%3D1%26SubscriptionId%3DAKIAJNX6RIGEYAM7BLLQ%26tag%3Dquixey03-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00F3J4B5S"
+                            },
+                            "geoloc": [],
+                            "webUrl": "http://www.amazon.com/Apple-iPhone-Unlocked-Cellphone-Space/dp/B00F3J4B5S%3Fpsc%3D1%26SubscriptionId%3DAKIAJNX6RIGEYAM7BLLQ%26tag%3Dquixey03-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00F3J4B5S"
+                        },
+                        "deviceActions": [],
+                        "entitySchema": "Product",
+                        "functionName": "",
+                        "furl": "func://amazon.com/showProductById/www.amazon.com/Apple-iPhone-Unlocked-Cellphone-Space/dp/B00F3J4B5S%3Fpsc%3D1%26SubscriptionId%3DAKIAJNX6RIGEYAM7BLLQ%26tag%3Dquixey03-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00F3J4B5S",
+                        "stateAccessInfo": [
+                            {
+                                "accessUrl": "com.amazon.mobile.shopping.web://www.amazon.com/Apple-iPhone-Unlocked-Cellphone-Space/dp/B00F3J4B5S?psc=1&SubscriptionId=AKIAJNX6RIGEYAM7BLLQ&tag=quixey03-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B00F3J4B5S",
+                                "component": "com.amazon.mShop.details.ProductDetailsActivity",
+                                "editions": [
+                                    {
+                                        "editionId": "qedition://googleplay/com.amazon.mShop.android.shopping?minVersion=5030101&maxVersion=5030101",
+                                        "maxVersion": "5030101",
+                                        "minVersion": "5030101",
+                                        "packageName": "com.amazon.mShop.android.shopping",
+                                        "platform": "android"
+                                    }
+                                ],
+                                "extras": [],
+                                "jar": "StandardJSONIntent.jar",
+                                "method": "launchIntentViaJSON"
+                            },
+                            {
+                                "accessUrl": "com.amazon.mobile.shopping.web://www.amazon.com/Apple-iPhone-Unlocked-Cellphone-Space/dp/B00F3J4B5S?psc=1&SubscriptionId=AKIAJNX6RIGEYAM7BLLQ&tag=quixey03-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B00F3J4B5S",
+                                "editions": [
+                                    {
+                                        "editionId": "qedition://googleplay/com.amazon.mShop.android.shopping?minVersion=7141410&maxVersion=7141410",
+                                        "maxVersion": "7141410",
+                                        "minVersion": "7141410",
+                                        "packageName": "com.amazon.mShop.android.shopping",
+                                        "platform": "android"
+                                    },
+                                    {
+                                        "editionId": "qedition://googleplay/com.amazon.mShop.android.shopping?minVersion=9436810&maxVersion=9436810",
+                                        "maxVersion": "9436810",
+                                        "minVersion": "9436810",
+                                        "packageName": "com.amazon.mShop.android.shopping",
+                                        "platform": "android"
+                                    },
+                                    {
+                                        "editionId": "qedition://googleplay/com.amazon.mShop.android.shopping?minVersion=10459110&maxVersion=10459110",
+                                        "maxVersion": "10459110",
+                                        "minVersion": "10459110",
+                                        "packageName": "com.amazon.mShop.android.shopping",
+                                        "platform": "android"
+                                    },
+                                    {
+                                        "editionId": "qedition://googleplay/com.amazon.mShop.android.shopping?minVersion=12277010&maxVersion=12277010",
+                                        "maxVersion": "12277010",
+                                        "minVersion": "12277010",
+                                        "packageName": "com.amazon.mShop.android.shopping",
+                                        "platform": "android"
+                                    },
+                                    {
+                                        "editionId": "qedition://googleplay/com.amazon.mShop.android.shopping?minVersion=13228910&maxVersion=13228910",
+                                        "maxVersion": "13228910",
+                                        "minVersion": "13228910",
+                                        "packageName": "com.amazon.mShop.android.shopping",
+                                        "platform": "android"
+                                    }
+                                ],
+                                "uri": "com.amazon.mobile.shopping.web://www.amazon.com/Apple-iPhone-Unlocked-Cellphone-Space/dp/B00F3J4B5S?psc=1&SubscriptionId=AKIAJNX6RIGEYAM7BLLQ&tag=quixey03-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B00F3J4B5S"
+                            }
+                        ],
+                        "useEntitySchema": true
+                    },
+                    {
+                        "deepViewContent": {
+                            "displayContent": {
+                                "@id": "func://amazon.com/showProductById/www.amazon.com/Apple-iPhone-Unlocked-Cellphone-Space/dp/B00F3J4KYA%3Fpsc%3D1%26SubscriptionId%3DAKIAJNX6RIGEYAM7BLLQ%26tag%3Dquixey03-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00F3J4KYA",
+                                "@type": "Product",
+                                "@vertical": "Ecommerce",
+                                "author": "Apple",
+                                "brand": "Apple",
+                                "category": "Electronics",
+                                "crawled": "2016-10-23T07:58:27Z",
+                                "created": "2016-10-23T07:58:27Z",
+                                "description": "Cellular Band - Quad-Band 850 / 900 / 1800 / 1900 Mhz, Cellular Band 3G - 850 / 900 / 1800 / 1900 / 2100 Mhz",
+                                "expires": "2016-12-22T07:58:27Z",
+                                "httpStatusCode": 200,
+                                "image": "http://ecx.images-amazon.com/images/I/51lIJjG5DYL.jpg",
+                                "manufacturer": "Apple",
+                                "name": "Apple iPhone 5s Unlocked Cellphone, 32 GB, Space Gray",
+                                "price": "$429.99",
+                                "productId": "B00F3J4KYA",
+                                "productUrl": "www.amazon.com/Apple-iPhone-Unlocked-Cellphone-Space/dp/B00F3J4KYA%3Fpsc%3D1%26SubscriptionId%3DAKIAJNX6RIGEYAM7BLLQ%26tag%3Dquixey03-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00F3J4KYA",
+                                "url": "http://www.amazon.com/Apple-iPhone-Unlocked-Cellphone-Space/dp/B00F3J4KYA%3Fpsc%3D1%26SubscriptionId%3DAKIAJNX6RIGEYAM7BLLQ%26tag%3Dquixey03-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00F3J4KYA"
+                            },
+                            "geoloc": [],
+                            "webUrl": "http://www.amazon.com/Apple-iPhone-Unlocked-Cellphone-Space/dp/B00F3J4KYA%3Fpsc%3D1%26SubscriptionId%3DAKIAJNX6RIGEYAM7BLLQ%26tag%3Dquixey03-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00F3J4KYA"
+                        },
+                        "deviceActions": [],
+                        "entitySchema": "Product",
+                        "functionName": "",
+                        "furl": "func://amazon.com/showProductById/www.amazon.com/Apple-iPhone-Unlocked-Cellphone-Space/dp/B00F3J4KYA%3Fpsc%3D1%26SubscriptionId%3DAKIAJNX6RIGEYAM7BLLQ%26tag%3Dquixey03-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00F3J4KYA",
+                        "stateAccessInfo": [
+                            {
+                                "accessUrl": "com.amazon.mobile.shopping.web://www.amazon.com/Apple-iPhone-Unlocked-Cellphone-Space/dp/B00F3J4KYA?psc=1&SubscriptionId=AKIAJNX6RIGEYAM7BLLQ&tag=quixey03-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B00F3J4KYA",
+                                "component": "com.amazon.mShop.details.ProductDetailsActivity",
+                                "editions": [
+                                    {
+                                        "editionId": "qedition://googleplay/com.amazon.mShop.android.shopping?minVersion=5030101&maxVersion=5030101",
+                                        "maxVersion": "5030101",
+                                        "minVersion": "5030101",
+                                        "packageName": "com.amazon.mShop.android.shopping",
+                                        "platform": "android"
+                                    }
+                                ],
+                                "extras": [],
+                                "jar": "StandardJSONIntent.jar",
+                                "method": "launchIntentViaJSON"
+                            },
+                            {
+                                "accessUrl": "com.amazon.mobile.shopping.web://www.amazon.com/Apple-iPhone-Unlocked-Cellphone-Space/dp/B00F3J4KYA?psc=1&SubscriptionId=AKIAJNX6RIGEYAM7BLLQ&tag=quixey03-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B00F3J4KYA",
+                                "editions": [
+                                    {
+                                        "editionId": "qedition://googleplay/com.amazon.mShop.android.shopping?minVersion=7141410&maxVersion=7141410",
+                                        "maxVersion": "7141410",
+                                        "minVersion": "7141410",
+                                        "packageName": "com.amazon.mShop.android.shopping",
+                                        "platform": "android"
+                                    },
+                                    {
+                                        "editionId": "qedition://googleplay/com.amazon.mShop.android.shopping?minVersion=9436810&maxVersion=9436810",
+                                        "maxVersion": "9436810",
+                                        "minVersion": "9436810",
+                                        "packageName": "com.amazon.mShop.android.shopping",
+                                        "platform": "android"
+                                    },
+                                    {
+                                        "editionId": "qedition://googleplay/com.amazon.mShop.android.shopping?minVersion=10459110&maxVersion=10459110",
+                                        "maxVersion": "10459110",
+                                        "minVersion": "10459110",
+                                        "packageName": "com.amazon.mShop.android.shopping",
+                                        "platform": "android"
+                                    },
+                                    {
+                                        "editionId": "qedition://googleplay/com.amazon.mShop.android.shopping?minVersion=12277010&maxVersion=12277010",
+                                        "maxVersion": "12277010",
+                                        "minVersion": "12277010",
+                                        "packageName": "com.amazon.mShop.android.shopping",
+                                        "platform": "android"
+                                    },
+                                    {
+                                        "editionId": "qedition://googleplay/com.amazon.mShop.android.shopping?minVersion=13228910&maxVersion=13228910",
+                                        "maxVersion": "13228910",
+                                        "minVersion": "13228910",
+                                        "packageName": "com.amazon.mShop.android.shopping",
+                                        "platform": "android"
+                                    }
+                                ],
+                                "uri": "com.amazon.mobile.shopping.web://www.amazon.com/Apple-iPhone-Unlocked-Cellphone-Space/dp/B00F3J4KYA?psc=1&SubscriptionId=AKIAJNX6RIGEYAM7BLLQ&tag=quixey03-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B00F3J4KYA"
+                            }
+                        ],
+                        "useEntitySchema": true
+                    }
+                ],
+                "functionName": "",
+                "geoSensitivity": 0,
+                "shouldRefresh": false,
+                "stateAccessInfo": [
+                    {
+                        "action": "android.intent.action.SEARCH",
+                        "component": "com.amazon.mShop.android.shopping/com.amazon.mShop.search.SearchActivity",
+                        "editions": [
+                            {
+                                "editionId": "qedition://googleplay/com.amazon.mShop.android.shopping?minVersion=5030101&maxVersion=5030101",
+                                "maxVersion": "5030101",
+                                "minVersion": "5030101",
+                                "packageName": "com.amazon.mShop.android.shopping",
+                                "platform": "android"
+                            },
+                            {
+                                "editionId": "qedition://googleplay/com.amazon.mShop.android.shopping?minVersion=7141410&maxVersion=7141410",
+                                "maxVersion": "7141410",
+                                "minVersion": "7141410",
+                                "packageName": "com.amazon.mShop.android.shopping",
+                                "platform": "android"
+                            },
+                            {
+                                "editionId": "qedition://googleplay/com.amazon.mShop.android.shopping?minVersion=9436810&maxVersion=9436810",
+                                "maxVersion": "9436810",
+                                "minVersion": "9436810",
+                                "packageName": "com.amazon.mShop.android.shopping",
+                                "platform": "android"
+                            },
+                            {
+                                "editionId": "qedition://googleplay/com.amazon.mShop.android.shopping?minVersion=10459110&maxVersion=10459110",
+                                "maxVersion": "10459110",
+                                "minVersion": "10459110",
+                                "packageName": "com.amazon.mShop.android.shopping",
+                                "platform": "android"
+                            },
+                            {
+                                "editionId": "qedition://googleplay/com.amazon.mShop.android.shopping?minVersion=12277010&maxVersion=12277010",
+                                "maxVersion": "12277010",
+                                "minVersion": "12277010",
+                                "packageName": "com.amazon.mShop.android.shopping",
+                                "platform": "android"
+                            },
+                            {
+                                "editionId": "qedition://googleplay/com.amazon.mShop.android.shopping?minVersion=13228910&maxVersion=13228910",
+                                "maxVersion": "13228910",
+                                "minVersion": "13228910",
+                                "packageName": "com.amazon.mShop.android.shopping",
+                                "platform": "android"
+                            }
+                        ],
+                        "extras": [],
+                        "jar": "StandardJSONIntent.jar",
+                        "method": "launchIntentViaJSON"
+                    }
+                ],
+                "ttlMinutes": 86400
+            },
+            "editionIds": [
+                "qedition://googleplay/com.amazon.mShop.android.shopping"
+            ],
+            "type": "apiCloudDVC"
+        }
+    },
+    "editions": {
+        "qedition://googleplay/com.amazon.mShop.android.shopping": {
+            "category": "Shopping",
+            "currency": "USD",
+            "description": "Product Features Customers are able to shop millions of products on any of Amazon's sites around the world from a single app Quickly search, get product details, and read reviews on millions of products from Amazon and other merchants",
+            "downloads": 50000000,
+            "iconUrl": "https://lh3.googleusercontent.com/Pzhl8z9sJAQk8e1ZiL_XnX3WZPEminhbw5I0S5nrqmTtzdbzb1TCydGZJ9FoUmlD_WjO=w300",
+            "id": 5213119407595036155,
+            "name": "Amazon Shopping",
+            "platformIds": [
+                2005
+            ],
+            "price": 0.0,
+            "rating": 4.279340744,
+            "ratingCount": 531698,
+            "store": "googleplay",
+            "storeSpecific": {
+                "contentRating": "Teen",
+                "packageId": "com.amazon.mShop.android.shopping"
+            },
+            "url": "https://play.google.com/store/apps/details?id=com.amazon.mShop.android.shopping"
+        }
+    },
+    "searchId": "874eb8beb3e2057a79dfeeb1f2affb9fc42cb43f",
+    "sessionId": "50cb1e4764f9f6642595450eea4064f9f45f5b0d"
+}

@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>iQ</title>
+    <link href="/css/iq.css" rel="stylesheet">
+    <link href="/css/iq-theme.css" rel="stylesheet">
+ 
+    <!--[if lt IE 9]>
+      {% if debug %}
+      <link href="/js/html5shiv.min.js" rel="stylesheet">
+      <link href="/js/respond.min.js" rel="stylesheet">
+      {% else %}
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+      {% endif %}
+    <![endif]-->
+
+  </head>
+  <body>
+
+    <script type="text/javascript">
+    var $global = {
+        initialState: false
+    };
+    </script>
+
+    <nav class="navbar navbar-default navbar-fixed-top">
+      <div class="container">
+        <div class="navbar-header">
+          <a class="navbar-brand sam-logo" href="/">iQ</a>
+        </div>
+        <div class="navbar">
+          <ul class="nav navbar-nav" id="app-menu">
+          </ul>
+        </div>
+      </div>
+    </nav>
+
+    <div id="main-content"></div>
+
+    <script src="/js/jquery.min.js"></script>
+    <script src="/js/iq-app.js""></script>
+    <script src="/js/iq.js"></script>
+  </body>
+</html>

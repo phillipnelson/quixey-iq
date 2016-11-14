@@ -1,0 +1,322 @@
+{
+    "deepViewCards": {
+        "func://thai-accepts-food-orders-mountain-view": {
+            "cardContent": {
+                "appName": "Food delivery orders in Mountain View",
+                "summary": "Both of these restaurants have free delivery.",
+                "deepViews": [
+                    {
+                        "deepViewContent": {
+                            "displayContent": {
+                                "@context": "http://schemas.quixey.com/2016/02/us-direct/scrape/eat24.com/restaurant/v1.0/scrape.json",
+                                "@id": "func://eat24.com/showRestaurant/35455/simply-thai-street-food",
+                                "@type": "Restaurant",
+                                "@vertical": "Local",
+                                "address": "425 N Whisman Rd, Mountain View, CA 94043",
+                                "androidAppURL": "android-app://com.eat24.app/eat24/menu/35455/open",
+                                "areaServed": "Los Altos",
+                                "breadcrumb": [
+                                    "Food Delivery",
+                                    "Mountain View",
+                                    "Thai",
+                                    "Simply Thai Street Food"
+                                ],
+                                "crawled": "2016-08-18T12:03:16Z",
+                                "created": "2016-08-18T12:03:16Z",
+                                "expires": "2016-11-16T12:03:16.000Z",
+                                "geo": {
+                                    "latitude": 37.400921,
+                                    "longitude": -122.057686
+                                },
+                                "httpStatusCode": 200,
+                                "image": "http://eat24hours.com/files/logo/35455.jpg",
+                                "iosAppURL": "ios-app://517729226/eat24/restaurant/35455",
+                                "menu": "Pad Kee Mow Noodle|Spring Roll (3 pcs)|Roti Paratha (1)|Green Curry|Create Your Own Box|Create Your Own Wrap|Create Your Own Box|Create Your Own Salad|Pad Thai Noodle|Pad See Ew Noodle|Pad Kee Mow Noodle|Fried Rice|Spicy Fried Rice|Green Curry|Yellow Curry|Pumpkin Curry|Panang Curry|Extra Tofu|Extra Steak|Extra Shrimp|Extra Chicken|Extra Salmon|Roti Paratha (1)|Chicken Satay (1)|Pot Stickers (4 pcs)|Fried Chicken Wings (4 pcs)|Spring Roll (3 pcs)|Fresh Roll (4 pcs)|Soft Drink|Thai Iced Tea|Tea|Sweet Tea",
+                                "name": "Simply Thai Street Food",
+                                "quality": 0.7,
+                                "rating": "3.5",
+                                "ratingCount": 81,
+                                "servesCuisine": "Thai,Chinese",
+                                "telephone": "(650) 962-1171",
+                                "url": "http://mountain-view.eat24hours.com/simply-thai-street-food/35455",
+                                "userReviews": [
+                                    "Came here for the first time.\n- good service,  clean atmosphere\n-food is fresh, their pumpkin curry is really good\n-portions are kinda smaller than what i...read more...",
+                                    "I have come here a couple times. This place is like a new hipster chipotle-style Thai place. \nUnfortunately, it doesn't have a lot of the usual Thai food...read more...",
+                                    "Looking for a quick lunch? This place pretty much has you covered. The location is tucked amongst some office buildings but is easy to spot from the street...read more..."
+                                ]
+                            },
+                            "geoloc": [
+                                {
+                                    "distanceMeters": 2002.3252638351892,
+                                    "distanceMiles": 1.2441872364362057,
+                                    "latitude": 37.400921,
+                                    "longitude": -122.057686
+                                }
+                            ],
+                            "webUrl": "http://mountain-view.eat24hours.com/simply-thai-street-food/35455"
+                        },
+                        "entitySchema": "Restaurant",
+                        "functionName": "",
+                        "furl": "func://eat24.com/showRestaurant/35455/simply-thai-street-food",
+                        "stateAccessInfo": [
+                            {
+                                "accessUrl": "eat24://info/35455/simply-thai-street-food",
+                                "editions": [
+                                    {
+                                        "editionId": "qedition://googleplay/com.eat24.app?minVersion=114&maxVersion=114",
+                                        "maxVersion": "114",
+                                        "minVersion": "114",
+                                        "packageName": "com.eat24.app",
+                                        "platform": "android"
+                                    },
+                                    {
+                                        "editionId": "qedition://googleplay/com.eat24.app?minVersion=116&maxVersion=116",
+                                        "maxVersion": "116",
+                                        "minVersion": "116",
+                                        "packageName": "com.eat24.app",
+                                        "platform": "android"
+                                    },
+                                    {
+                                        "editionId": "qedition://googleplay/com.eat24.app?minVersion=117&maxVersion=117",
+                                        "maxVersion": "117",
+                                        "minVersion": "117",
+                                        "packageName": "com.eat24.app",
+                                        "platform": "android"
+                                    },
+                                    {
+                                        "editionId": "qedition://googleplay/com.eat24.app?minVersion=118&maxVersion=118",
+                                        "maxVersion": "118",
+                                        "minVersion": "118",
+                                        "packageName": "com.eat24.app",
+                                        "platform": "android"
+                                    },
+                                    {
+                                        "editionId": "qedition://googleplay/com.eat24.app?minVersion=120&maxVersion=120",
+                                        "maxVersion": "120",
+                                        "minVersion": "120",
+                                        "packageName": "com.eat24.app",
+                                        "platform": "android"
+                                    }
+                                ],
+                                "uri": "eat24://info/35455/simply-thai-street-food"
+                            }
+                        ],
+                        "useEntitySchema": true
+                    },
+                    {
+                        "deepViewContent": {
+                            "displayContent": {
+                                "@context": "http://schemas.quixey.com/2016/02/us-direct/scrape/eat24.com/restaurant/v1.0/scrape.json",
+                                "@id": "func://eat24.com/showRestaurant/52941/srasa-kitchen",
+                                "@type": "Restaurant",
+                                "@vertical": "Local",
+                                "address": "225 E Middlefield Rd, Mountain View, CA 94043",
+                                "androidAppURL": "android-app://com.eat24.app/eat24/menu/52941/open",
+                                "areaServed": "Los Altos",
+                                "breadcrumb": [
+                                    "Food Delivery",
+                                    "Mountain View",
+                                    "Thai",
+                                    "Srasa Kitchen"
+                                ],
+                                "crawled": "2016-10-12T17:34:03Z",
+                                "created": "2016-10-12T17:34:03Z",
+                                "expires": "2017-01-10T17:34:03.000Z",
+                                "geo": {
+                                    "latitude": 37.397018,
+                                    "longitude": -122.061424
+                                },
+                                "httpStatusCode": 200,
+                                "image": "http://eat24hours.com/files/logo/52941.png",
+                                "iosAppURL": "ios-app://517729226/eat24/restaurant/52941",
+                                "menu": "Create Your Own Bowl|Cambo|Bangkok|Seoul|Create Your Own Bowl|Cambo|Seoul|Bangkok|Cali|Unsweetened Green Tea|Watermelon Lemonade|Horchata|Canned Soda|Bottled Soda|Coconut Drink|Bottled Water|Perrier Sparkling Water|Thai Ice Tea",
+                                "name": "Srasa Kitchen",
+                                "quality": 0.8,
+                                "rating": "4",
+                                "ratingCount": 156,
+                                "servesCuisine": "Thai,Vegetarian,Seafood,Vietnamese,Chicken",
+                                "telephone": "(650) 960-7100",
+                                "url": "http://new-hartford.eat24hours.com/srasa-kitchen/52941",
+                                "userReviews": [
+                                    "Chipotle-style build-your-on Asian fusion ball. Bowls are about the diameter of a volleyball and generously deep. Server was kind and accommodating (she let...read more...",
+                                    "I came to Srasa because I was in the mood for Asian Box but wanted something different. The concept as many reviewers have mentioned is similar (Thai / Viet...read more...",
+                                    "I like it. It seems like customizable bowls seems to be the new trend nowadays. Srasa Kitchen is unique in that it features Cambodian/Thai themed...read more..."
+                                ]
+                            },
+                            "geoloc": [
+                                {
+                                    "distanceMeters": 1466.5228118137745,
+                                    "distanceMiles": 0.9112550280199724,
+                                    "latitude": 37.397018,
+                                    "longitude": -122.061424
+                                }
+                            ],
+                            "webUrl": "http://new-hartford.eat24hours.com/srasa-kitchen/52941"
+                        },
+                        "entitySchema": "Restaurant",
+                        "functionName": "",
+                        "furl": "func://eat24.com/showRestaurant/52941/srasa-kitchen",
+                        "stateAccessInfo": [
+                            {
+                                "accessUrl": "eat24://info/52941/srasa-kitchen",
+                                "editions": [
+                                    {
+                                        "editionId": "qedition://googleplay/com.eat24.app?minVersion=114&maxVersion=114",
+                                        "maxVersion": "114",
+                                        "minVersion": "114",
+                                        "packageName": "com.eat24.app",
+                                        "platform": "android"
+                                    },
+                                    {
+                                        "editionId": "qedition://googleplay/com.eat24.app?minVersion=116&maxVersion=116",
+                                        "maxVersion": "116",
+                                        "minVersion": "116",
+                                        "packageName": "com.eat24.app",
+                                        "platform": "android"
+                                    },
+                                    {
+                                        "editionId": "qedition://googleplay/com.eat24.app?minVersion=117&maxVersion=117",
+                                        "maxVersion": "117",
+                                        "minVersion": "117",
+                                        "packageName": "com.eat24.app",
+                                        "platform": "android"
+                                    },
+                                    {
+                                        "editionId": "qedition://googleplay/com.eat24.app?minVersion=118&maxVersion=118",
+                                        "maxVersion": "118",
+                                        "minVersion": "118",
+                                        "packageName": "com.eat24.app",
+                                        "platform": "android"
+                                    },
+                                    {
+                                        "editionId": "qedition://googleplay/com.eat24.app?minVersion=120&maxVersion=120",
+                                        "maxVersion": "120",
+                                        "minVersion": "120",
+                                        "packageName": "com.eat24.app",
+                                        "platform": "android"
+                                    }
+                                ],
+                                "uri": "eat24://info/52941/srasa-kitchen"
+                            }
+                        ],
+                        "useEntitySchema": true
+                    }
+                ],
+                "shouldRefresh": false,
+                "stateAccessInfo": []
+            },
+            "editionIds": [
+                "qedition://googleplay/com.eat24.app"
+            ],
+            "type": "searchInsideDVC"
+        },
+        "func://accepts-ordersrestaurants-in-mountain-view?q=thai": {
+            "cardContent": {
+                "appName": "Pad Thai delivery in Palo Alto",
+                "summary": "The Pad Thai is exceptional at Lotus Thai.",
+                "deepViews": [
+                    {
+                        "deepViewContent": {
+                            "displayContent": {
+                                "@context": "http://schemas.quixey.com/2016/02/us-direct/scrape/eat24.com/restaurant/v1.0/scrape.json",
+                                "@id": "func://http://palo-alto.eat24hours.com/lotus-thai-bistro/26976",
+                                "@type": "Restaurant",
+                                "@vertical": "Local",
+                                "address": "2425 S California Ave, Palo Alto, CA 94306",
+                                "areaServed": "Palo Alto",
+                                "breadcrumb": [
+                                    "Food Delivery",
+                                    "Mountain View",
+                                    "Thai",
+                                    "Srasa Kitchen"
+                                ],
+                                "crawled": "2016-10-12T17:34:03Z",
+                                "created": "2016-10-12T17:34:03Z",
+                                "expires": "2017-01-10T17:34:03.000Z",
+                                "geo": {
+                                    "latitude": 37.397018,
+                                    "longitude": -122.061424
+                                },
+                                "httpStatusCode": 200,
+                                "image": "http://palo-alto.eat24hours.com/files/logo/26976.jpg",
+                                "iosAppURL": "ios-app://517729226/eat24/restaurant/52941",
+                                "menu": "Create Your Own Bowl|Cambo|Bangkok|Seoul|Create Your Own Bowl|Cambo|Seoul|Bangkok|Cali|Unsweetened Green Tea|Watermelon Lemonade|Horchata|Canned Soda|Bottled Soda|Coconut Drink|Bottled Water|Perrier Sparkling Water|Thai Ice Tea",
+                                "name": "Lotus Thai",
+                                "quality": 0.8,
+                                "rating": "4",
+                                "ratingCount": 156,
+                                "servesCuisine": "Thai,Vegetarian,Seafood,Vietnamese,Chicken",
+                                "telephone": "(650) 960-7100",
+                                "url": "http://palo-alto.eat24hours.com/lotus-thai-bistro/26976",
+                                "userReviews": [
+                                    "Chipotle-style build-your-on Asian fusion ball. Bowls are about the diameter of a volleyball and generously deep. Server was kind and accommodating (she let...read more...",
+                                    "I came to Srasa because I was in the mood for Asian Box but wanted something different. The concept as many reviewers have mentioned is similar (Thai / Viet...read more...",
+                                    "I like it. It seems like customizable bowls seems to be the new trend nowadays. Srasa Kitchen is unique in that it features Cambodian/Thai themed...read more..."
+                                ]
+                            },
+                            "geoloc": [
+                                {
+                                    "distanceMeters": 1466.5228118137745,
+                                    "distanceMiles": 0.9112550280199724,
+                                    "latitude": 37.397018,
+                                    "longitude": -122.061424
+                                }
+                            ],
+                            "webUrl": "http://new-hartford.eat24hours.com/srasa-kitchen/52941"
+                        }
+                    },
+                    {
+                        "deepViewContent": {
+                            "displayContent": {
+                                "@id": "func://http://palo-alto.eat24hours.com/rangoon-ruby-palo-alto/41903",
+                                "@type": "Restaurant",
+                                "@vertical": "Local",
+                                "address": "445 Emerson St, Palo Alto, CA 94301",
+                                "areaServed": "Palo Alto",
+                                "image": "http://palo-alto.eat24hours.com/files/logo/41903.jpg",
+                                "name": "Rangoon Ruby",
+                                "servesCuisine": "Thai,Vegetarian,Seafood,Vietnamese,Chicken",
+                                "url": "http://palo-alto.eat24hours.com/rangoon-ruby-palo-alto/41903"
+                            }
+                        }
+                    },
+                    {
+                        "deepViewContent": {
+                            "displayContent": {
+                                "@id": "func://http://palo-alto.eat24hours.com/vam-asian-fusion-restaurant/71084",
+                                "@type": "Restaurant",
+                                "@vertical": "Local",
+                                "address": "3487 El Camino Real , Palo Alto, CA 94306",
+                                "areaServed": "Palo Alto",
+                                "image": "http://palo-alto.eat24hours.com/files/logo/41903.jpg",
+                                "name": "VAM Asian Fusion Restaurant",
+                                "servesCuisine": "Thai,Vegetarian,Seafood,Vietnamese,Chicken",
+                                "url": "http://palo-alto.eat24hours.com/files/logo/71084.png"
+                            }
+                        }
+                    },
+                    {
+                        "deepViewContent": {
+                            "displayContent": {
+                                "@id": "http://palo-alto.eat24hours.com/karakade-thai-cuisine/31165",
+                                "@type": "Restaurant",
+                                "@vertical": "Local",
+                                "address": "124487 Main Street , Palo Alto, CA 94306",
+                                "areaServed": "Palo Alto",
+                                "image": "http://palo-alto.eat24hours.com/files/logo/31165.jpg",
+                                "name": "Karakade Thai Cuisine",
+                                "servesCuisine": "Thai,Vegetarian,Seafood,Vietnamese,Chicken",
+                                "url": "http://palo-alto.eat24hours.com/karakade-thai-cuisine/31165"
+                            }
+                        }
+                    }
+                ],
+                "functionName": "",
+                "geoSensitivity": 0,
+                "shouldRefresh": false,
+                "stateAccessInfo": [],
+                "ttlMinutes": 60
+            }
+        }
+    }
+}

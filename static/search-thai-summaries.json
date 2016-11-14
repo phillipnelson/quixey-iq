@@ -1,0 +1,919 @@
+{
+    "deepViewCards": {
+        "func://thai-accepts-food-orders": {
+            "cardContent": {
+                "appName": "Accepts food delivery orders",
+                "summary": "There are 9 restaurants near you. Simply Thai is the best rated and has free delivery.",
+                "deepViews": [
+                    {
+                        "deepViewContent": {
+                            "displayContent": {
+                                "@context": "http://schemas.quixey.com/2016/02/us-direct/scrape/eat24.com/restaurant/v1.0/scrape.json",
+                                "@id": "func://eat24.com/showRestaurant/35455/simply-thai-street-food",
+                                "@type": "Restaurant",
+                                "@vertical": "Local",
+                                "address": "425 N Whisman Rd, Mountain View, CA 94043",
+                                "androidAppURL": "android-app://com.eat24.app/eat24/menu/35455/open",
+                                "areaServed": "Los Altos",
+                                "breadcrumb": [
+                                    "Food Delivery",
+                                    "Mountain View",
+                                    "Thai",
+                                    "Simply Thai Street Food"
+                                ],
+                                "crawled": "2016-08-18T12:03:16Z",
+                                "created": "2016-08-18T12:03:16Z",
+                                "expires": "2016-11-16T12:03:16.000Z",
+                                "geo": {
+                                    "latitude": 37.400921,
+                                    "longitude": -122.057686
+                                },
+                                "httpStatusCode": 200,
+                                "image": "http://eat24hours.com/files/logo/35455.jpg",
+                                "iosAppURL": "ios-app://517729226/eat24/restaurant/35455",
+                                "menu": "Pad Kee Mow Noodle|Spring Roll (3 pcs)|Roti Paratha (1)|Green Curry|Create Your Own Box|Create Your Own Wrap|Create Your Own Box|Create Your Own Salad|Pad Thai Noodle|Pad See Ew Noodle|Pad Kee Mow Noodle|Fried Rice|Spicy Fried Rice|Green Curry|Yellow Curry|Pumpkin Curry|Panang Curry|Extra Tofu|Extra Steak|Extra Shrimp|Extra Chicken|Extra Salmon|Roti Paratha (1)|Chicken Satay (1)|Pot Stickers (4 pcs)|Fried Chicken Wings (4 pcs)|Spring Roll (3 pcs)|Fresh Roll (4 pcs)|Soft Drink|Thai Iced Tea|Tea|Sweet Tea",
+                                "name": "Simply Thai Street Food",
+                                "quality": 0.7,
+                                "rating": "3.5",
+                                "ratingCount": 81,
+                                "servesCuisine": "Thai,Chinese",
+                                "telephone": "(650) 962-1171",
+                                "url": "http://mountain-view.eat24hours.com/simply-thai-street-food/35455",
+                                "userReviews": [
+                                    "Came here for the first time.\n- good service,  clean atmosphere\n-food is fresh, their pumpkin curry is really good\n-portions are kinda smaller than what i...read more...",
+                                    "I have come here a couple times. This place is like a new hipster chipotle-style Thai place. \nUnfortunately, it doesn't have a lot of the usual Thai food...read more...",
+                                    "Looking for a quick lunch? This place pretty much has you covered. The location is tucked amongst some office buildings but is easy to spot from the street...read more..."
+                                ]
+                            },
+                            "geoloc": [
+                                {
+                                    "distanceMeters": 2002.3252638351892,
+                                    "distanceMiles": 1.2441872364362057,
+                                    "latitude": 37.400921,
+                                    "longitude": -122.057686
+                                }
+                            ],
+                            "webUrl": "http://mountain-view.eat24hours.com/simply-thai-street-food/35455"
+                        },
+                        "entitySchema": "Restaurant",
+                        "functionName": "",
+                        "furl": "func://eat24.com/showRestaurant/35455/simply-thai-street-food",
+                        "stateAccessInfo": [
+                            {
+                                "accessUrl": "eat24://info/35455/simply-thai-street-food",
+                                "editions": [
+                                    {
+                                        "editionId": "qedition://googleplay/com.eat24.app?minVersion=114&maxVersion=114",
+                                        "maxVersion": "114",
+                                        "minVersion": "114",
+                                        "packageName": "com.eat24.app",
+                                        "platform": "android"
+                                    },
+                                    {
+                                        "editionId": "qedition://googleplay/com.eat24.app?minVersion=116&maxVersion=116",
+                                        "maxVersion": "116",
+                                        "minVersion": "116",
+                                        "packageName": "com.eat24.app",
+                                        "platform": "android"
+                                    },
+                                    {
+                                        "editionId": "qedition://googleplay/com.eat24.app?minVersion=117&maxVersion=117",
+                                        "maxVersion": "117",
+                                        "minVersion": "117",
+                                        "packageName": "com.eat24.app",
+                                        "platform": "android"
+                                    },
+                                    {
+                                        "editionId": "qedition://googleplay/com.eat24.app?minVersion=118&maxVersion=118",
+                                        "maxVersion": "118",
+                                        "minVersion": "118",
+                                        "packageName": "com.eat24.app",
+                                        "platform": "android"
+                                    },
+                                    {
+                                        "editionId": "qedition://googleplay/com.eat24.app?minVersion=120&maxVersion=120",
+                                        "maxVersion": "120",
+                                        "minVersion": "120",
+                                        "packageName": "com.eat24.app",
+                                        "platform": "android"
+                                    }
+                                ],
+                                "uri": "eat24://info/35455/simply-thai-street-food"
+                            }
+                        ],
+                        "useEntitySchema": true
+                    },
+                    {
+                        "deepViewContent": {
+                            "displayContent": {
+                                "@context": "http://schemas.quixey.com/2016/02/us-direct/scrape/eat24.com/restaurant/v1.0/scrape.json",
+                                "@id": "func://eat24.com/showRestaurant/46339/thai-bangkok-cuisine",
+                                "@type": "Restaurant",
+                                "@vertical": "Local",
+                                "address": "21670 Stevens Creek Blvd, Cupertino, CA 95014",
+                                "androidAppURL": "android-app://com.eat24.app/eat24/menu/46339/open",
+                                "areaServed": "De Anza College",
+                                "breadcrumb": [
+                                    "Food Delivery",
+                                    "Cupertino",
+                                    "Thai",
+                                    "Thai Bangkok Cuisine"
+                                ],
+                                "crawled": "2016-09-30T11:38:30Z",
+                                "created": "2016-09-30T11:38:30Z",
+                                "expires": "2016-12-29T11:38:30.000Z",
+                                "geo": {
+                                    "latitude": 37.32288,
+                                    "longitude": -122.05352
+                                },
+                                "httpStatusCode": 200,
+                                "image": "http://eat24hours.com/files/logo/46339.jpg",
+                                "iosAppURL": "ios-app://517729226/eat24/restaurant/46339",
+                                "menu": "50. Pad Thai|51. Pad See-Ew|39. Yellow Curry|42. Panang Curry|1. Thai Spring Rolls|1. Thai Spring Rolls|2. Thai Money Bags|3. Chicken Satay|5. Fresh Paper Rolls|4. Roti|6. Wonton Crab Rangoon|7. Thai Spicy Chicken Wings|8. Fish Cake|9. Crispy Gold Fried Tofu|10. Appetizer Combo|11. Papaya Salad (Somtum)|12. Home Style Thai Salad|13. Yum Woon Sen|14. Yum Sam Shay|15. Yum Moo Yang or Beef|16. Thai Ocean Salad|17. Duck Salad|18. Larb|19. Chicken Satay Salad|20. Fried Egg Salad|21. Creamy Tom Yum Kung|22. Tom Yum|23. Tom Kha|24. Phao Taek|25. Jelly Noodle Soup|26. Wonton Soup|27. Pad Gar Praw|28. Pla Duk Pad Ped|29. Pad Snow Pea|30. Pad Cashew Nut Chicken|31. Sweet and Sour|32. Pad Prik King|33. Pad Nor Mai|34. Eggplant Delight|35. Garlic Luy Saun|36. Mixed Vegetables|37. Broccoli|38. Catfish Pad Cha|39. Yellow Curry|40. Red Curry|41. Green Curry|42. Panang Curry|43. Mussaman Curry|44. Duck Curry|45. Thai Fried Rice|46. Spicy Fried Rice|47. Pineapple Fried Rice|48. Green Curry Fried Rice|49. Tum Yum Fried Rice|50. Pad Thai|51. Pad See-Ew|52. Pad Kee Mow|53. Kuay Teow Kua Kai|54. Pad Woon Sen|55. Rad Nar|56. Khao Soi|57. Noodle Soup|58. BBQ Chicken|59. BBQ Pork|60. BBQ Beef|62. Basil Seafood Minced|63. Panang Seafood|64. Chu Chee Salmon|65. Seafood Yellow Powder|Steamed Rice|Sticky Rice|Brown Rice|Cucumber Salad|Peanut Sauce|Banana Split|Mango Sticky Rice|Fried Banana with Ice Cream|Tiramisu with Ice Cream|Ice Cream with Chocolate Syrup|Roti with Ice Cream|Ice Cream (1 Scoop)|Fresh Young Coconut|Thai Ice Tea|Thai Ice Coffee|Ice Tea|Soft Drinks|Jasmine Tea|Green Tea|Ginger Tea|Hot Chocolate|Thai Black Coffee",
+                                "name": "Thai Bangkok Cuisine",
+                                "quality": 0.8,
+                                "rating": "4",
+                                "ratingCount": 109,
+                                "servesCuisine": "Thai",
+                                "telephone": "(669) 342-7300",
+                                "url": "http://cupertino.eat24hours.com/thai-bangkok-cuisine/46339",
+                                "userReviews": [
+                                    "Historically, this hasn't been a very successful location for restaurants.  But this relatively new Thai restaurant seems to be doing OK, and is sometimes...read more...",
+                                    "We have been here a few times, a neighborhood restaurant, quiet and easy to access. Generally no wait and get seated right away. The service is fast and the...read more...",
+                                    "Went a couple of times lately.  Enjoyed tasty food with delicate spices/source and not too much oil/fat. \nAtmosphere is great and service is a real joy. We...read more..."
+                                ]
+                            },
+                            "geoloc": [
+                                {
+                                    "distanceMeters": 7519.117090424322,
+                                    "distanceMiles": 4.672162751049075,
+                                    "latitude": 37.32288,
+                                    "longitude": -122.05352
+                                }
+                            ],
+                            "webUrl": "http://cupertino.eat24hours.com/thai-bangkok-cuisine/46339"
+                        },
+                        "entitySchema": "Restaurant",
+                        "functionName": "",
+                        "furl": "func://eat24.com/showRestaurant/46339/thai-bangkok-cuisine",
+                        "stateAccessInfo": [
+                            {
+                                "accessUrl": "eat24://info/46339/thai-bangkok-cuisine",
+                                "editions": [
+                                    {
+                                        "editionId": "qedition://googleplay/com.eat24.app?minVersion=114&maxVersion=114",
+                                        "maxVersion": "114",
+                                        "minVersion": "114",
+                                        "packageName": "com.eat24.app",
+                                        "platform": "android"
+                                    },
+                                    {
+                                        "editionId": "qedition://googleplay/com.eat24.app?minVersion=116&maxVersion=116",
+                                        "maxVersion": "116",
+                                        "minVersion": "116",
+                                        "packageName": "com.eat24.app",
+                                        "platform": "android"
+                                    },
+                                    {
+                                        "editionId": "qedition://googleplay/com.eat24.app?minVersion=117&maxVersion=117",
+                                        "maxVersion": "117",
+                                        "minVersion": "117",
+                                        "packageName": "com.eat24.app",
+                                        "platform": "android"
+                                    },
+                                    {
+                                        "editionId": "qedition://googleplay/com.eat24.app?minVersion=118&maxVersion=118",
+                                        "maxVersion": "118",
+                                        "minVersion": "118",
+                                        "packageName": "com.eat24.app",
+                                        "platform": "android"
+                                    },
+                                    {
+                                        "editionId": "qedition://googleplay/com.eat24.app?minVersion=120&maxVersion=120",
+                                        "maxVersion": "120",
+                                        "minVersion": "120",
+                                        "packageName": "com.eat24.app",
+                                        "platform": "android"
+                                    }
+                                ],
+                                "uri": "eat24://info/46339/thai-bangkok-cuisine"
+                            }
+                        ],
+                        "useEntitySchema": true
+                    },
+                    {
+                        "deepViewContent": {
+                            "displayContent": {
+                                "@context": "http://schemas.quixey.com/2016/02/us-direct/scrape/eat24.com/restaurant/v1.0/scrape.json",
+                                "@id": "func://eat24.com/showRestaurant/52941/srasa-kitchen",
+                                "@type": "Restaurant",
+                                "@vertical": "Local",
+                                "address": "225 E Middlefield Rd, Mountain View, CA 94043",
+                                "androidAppURL": "android-app://com.eat24.app/eat24/menu/52941/open",
+                                "areaServed": "Los Altos",
+                                "breadcrumb": [
+                                    "Food Delivery",
+                                    "Mountain View",
+                                    "Thai",
+                                    "Srasa Kitchen"
+                                ],
+                                "crawled": "2016-10-12T17:34:03Z",
+                                "created": "2016-10-12T17:34:03Z",
+                                "expires": "2017-01-10T17:34:03.000Z",
+                                "geo": {
+                                    "latitude": 37.397018,
+                                    "longitude": -122.061424
+                                },
+                                "httpStatusCode": 200,
+                                "image": "http://eat24hours.com/files/logo/52941.png",
+                                "iosAppURL": "ios-app://517729226/eat24/restaurant/52941",
+                                "menu": "Create Your Own Bowl|Cambo|Bangkok|Seoul|Create Your Own Bowl|Cambo|Seoul|Bangkok|Cali|Unsweetened Green Tea|Watermelon Lemonade|Horchata|Canned Soda|Bottled Soda|Coconut Drink|Bottled Water|Perrier Sparkling Water|Thai Ice Tea",
+                                "name": "Srasa Kitchen",
+                                "quality": 0.8,
+                                "rating": "4",
+                                "ratingCount": 156,
+                                "servesCuisine": "Thai,Vegetarian,Seafood,Vietnamese,Chicken",
+                                "telephone": "(650) 960-7100",
+                                "url": "http://new-hartford.eat24hours.com/srasa-kitchen/52941",
+                                "userReviews": [
+                                    "Chipotle-style build-your-on Asian fusion ball. Bowls are about the diameter of a volleyball and generously deep. Server was kind and accommodating (she let...read more...",
+                                    "I came to Srasa because I was in the mood for Asian Box but wanted something different. The concept as many reviewers have mentioned is similar (Thai / Viet...read more...",
+                                    "I like it. It seems like customizable bowls seems to be the new trend nowadays. Srasa Kitchen is unique in that it features Cambodian/Thai themed...read more..."
+                                ]
+                            },
+                            "geoloc": [
+                                {
+                                    "distanceMeters": 1466.5228118137745,
+                                    "distanceMiles": 0.9112550280199724,
+                                    "latitude": 37.397018,
+                                    "longitude": -122.061424
+                                }
+                            ],
+                            "webUrl": "http://new-hartford.eat24hours.com/srasa-kitchen/52941"
+                        },
+                        "entitySchema": "Restaurant",
+                        "functionName": "",
+                        "furl": "func://eat24.com/showRestaurant/52941/srasa-kitchen",
+                        "stateAccessInfo": [
+                            {
+                                "accessUrl": "eat24://info/52941/srasa-kitchen",
+                                "editions": [
+                                    {
+                                        "editionId": "qedition://googleplay/com.eat24.app?minVersion=114&maxVersion=114",
+                                        "maxVersion": "114",
+                                        "minVersion": "114",
+                                        "packageName": "com.eat24.app",
+                                        "platform": "android"
+                                    },
+                                    {
+                                        "editionId": "qedition://googleplay/com.eat24.app?minVersion=116&maxVersion=116",
+                                        "maxVersion": "116",
+                                        "minVersion": "116",
+                                        "packageName": "com.eat24.app",
+                                        "platform": "android"
+                                    },
+                                    {
+                                        "editionId": "qedition://googleplay/com.eat24.app?minVersion=117&maxVersion=117",
+                                        "maxVersion": "117",
+                                        "minVersion": "117",
+                                        "packageName": "com.eat24.app",
+                                        "platform": "android"
+                                    },
+                                    {
+                                        "editionId": "qedition://googleplay/com.eat24.app?minVersion=118&maxVersion=118",
+                                        "maxVersion": "118",
+                                        "minVersion": "118",
+                                        "packageName": "com.eat24.app",
+                                        "platform": "android"
+                                    },
+                                    {
+                                        "editionId": "qedition://googleplay/com.eat24.app?minVersion=120&maxVersion=120",
+                                        "maxVersion": "120",
+                                        "minVersion": "120",
+                                        "packageName": "com.eat24.app",
+                                        "platform": "android"
+                                    }
+                                ],
+                                "uri": "eat24://info/52941/srasa-kitchen"
+                            }
+                        ],
+                        "useEntitySchema": true
+                    },
+                    {
+                        "deepViewContent": {
+                            "displayContent": {
+                                "@context": "http://schemas.quixey.com/2016/02/us-direct/scrape/eat24.com/restaurant/v1.0/scrape.json",
+                                "@id": "func://http://palo-alto.eat24hours.com/lotus-thai-bistro/26976",
+                                "@type": "Restaurant",
+                                "@vertical": "Local",
+                                "address": "2425 S California Ave, Palo Alto, CA 94306",
+                                "areaServed": "Palo Alto",
+                                "breadcrumb": [
+                                    "Food Delivery",
+                                    "Mountain View",
+                                    "Thai",
+                                    "Srasa Kitchen"
+                                ],
+                                "crawled": "2016-10-12T17:34:03Z",
+                                "created": "2016-10-12T17:34:03Z",
+                                "expires": "2017-01-10T17:34:03.000Z",
+                                "geo": {
+                                    "latitude": 37.397018,
+                                    "longitude": -122.061424
+                                },
+                                "httpStatusCode": 200,
+                                "image": "http://palo-alto.eat24hours.com/files/logo/26976.jpg",
+                                "iosAppURL": "ios-app://517729226/eat24/restaurant/52941",
+                                "menu": "Create Your Own Bowl|Cambo|Bangkok|Seoul|Create Your Own Bowl|Cambo|Seoul|Bangkok|Cali|Unsweetened Green Tea|Watermelon Lemonade|Horchata|Canned Soda|Bottled Soda|Coconut Drink|Bottled Water|Perrier Sparkling Water|Thai Ice Tea",
+                                "name": "Lotus Thai",
+                                "quality": 0.8,
+                                "rating": "4",
+                                "ratingCount": 156,
+                                "servesCuisine": "Thai,Vegetarian,Seafood,Vietnamese,Chicken",
+                                "telephone": "(650) 960-7100",
+                                "url": "http://palo-alto.eat24hours.com/lotus-thai-bistro/26976",
+                                "userReviews": [
+                                    "Chipotle-style build-your-on Asian fusion ball. Bowls are about the diameter of a volleyball and generously deep. Server was kind and accommodating (she let...read more...",
+                                    "I came to Srasa because I was in the mood for Asian Box but wanted something different. The concept as many reviewers have mentioned is similar (Thai / Viet...read more...",
+                                    "I like it. It seems like customizable bowls seems to be the new trend nowadays. Srasa Kitchen is unique in that it features Cambodian/Thai themed...read more..."
+                                ]
+                            },
+                            "geoloc": [
+                                {
+                                    "distanceMeters": 1466.5228118137745,
+                                    "distanceMiles": 0.9112550280199724,
+                                    "latitude": 37.397018,
+                                    "longitude": -122.061424
+                                }
+                            ],
+                            "webUrl": "http://new-hartford.eat24hours.com/srasa-kitchen/52941"
+                        }
+                    },
+                    {
+                        "deepViewContent": {
+                            "displayContent": {
+                                "@id": "func://http://palo-alto.eat24hours.com/rangoon-ruby-palo-alto/41903",
+                                "@type": "Restaurant",
+                                "@vertical": "Local",
+                                "address": "445 Emerson St, Palo Alto, CA 94301",
+                                "areaServed": "Palo Alto",
+                                "image": "http://palo-alto.eat24hours.com/files/logo/41903.jpg",
+                                "name": "Rangoon Ruby",
+                                "servesCuisine": "Thai,Vegetarian,Seafood,Vietnamese,Chicken",
+                                "url": "http://palo-alto.eat24hours.com/rangoon-ruby-palo-alto/41903"
+                            }
+                        }
+                    },
+                    {
+                        "deepViewContent": {
+                            "displayContent": {
+                                "@id": "func://http://palo-alto.eat24hours.com/vam-asian-fusion-restaurant/71084",
+                                "@type": "Restaurant",
+                                "@vertical": "Local",
+                                "address": "3487 El Camino Real , Palo Alto, CA 94306",
+                                "areaServed": "Palo Alto",
+                                "image": "http://palo-alto.eat24hours.com/files/logo/71084.png",
+                                "name": "VAM Asian Fusion Restaurant",
+                                "servesCuisine": "Thai,Vegetarian,Seafood,Vietnamese,Chicken",
+                                "url": "http://palo-alto.eat24hours.com/vam-asian-fusion-restaurant/71084"
+                            }
+                        }
+                    }
+                ],
+                "shouldRefresh": false,
+                "stateAccessInfo": []
+            },
+            "editionIds": [
+                "qedition://googleplay/com.eat24.app"
+            ],
+            "type": "searchInsideDVC"
+        },
+        "func://restaurants-in-mountain-view?q=thai": {
+            "cardContent": {
+                "appName": "Restaurants in Mountain View",
+                "summary": "Castro street has 4 Thai restaurants.",
+                "deepViews": [
+                    {
+                        "deepViewContent": {
+                            "displayContent": {
+                                "@id": "func://maps.google.com/showPlaceByLocation/3531901940883759806",
+                                "@type": "Place",
+                                "@vertical": "Local",
+                                "address": "1482 W El Camino Real, Mountain View, CA 94040, United States",
+                                "cid": "3531901940883759806",
+                                "crawled": "2016-10-24T16:21:47Z",
+                                "created": "2016-10-24T16:21:47Z",
+                                "description": "\"Great spot for Thai and Cambodian food. I come here at least once a month and try many different dishes although my favorite is the curry. Prices are reasonable but they do get busy Friday and Saturday nights. A good place for take out too.\" - Lynn Byrd. \"Good value for money. I like their lunch special which comes with soup. \n\nGreen curry is good. Dishes with eggplant are excellent. \n\nFood can be spicy. I love spicy food as long as it adds flavor and not just heat. I found spice level 7/10 to be the sweet spot. \" - Sai vignesh V.A",
+                                "expires": "2016-10-24T17:21:47Z",
+                                "geo": {
+                                    "latitude": 37.3895562,
+                                    "longitude": -122.0909465
+                                },
+                                "geometry.location.lat": "37.3895562",
+                                "geometry.location.lng": "-122.0909465",
+                                "geometry.viewport.northeast.lat": "37.38962850000001",
+                                "geometry.viewport.northeast.lng": "-122.09085755",
+                                "geometry.viewport.southwest.lat": "37.38933929999997",
+                                "geometry.viewport.southwest.lng": "-122.09121335",
+                                "globalLocationNumber": "ChIJR_KFNsmwj4ARvqLjNxrWAzE",
+                                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+                                "id": "00227b2f493a0e6a44b31039472f90f250993e2a",
+                                "image": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=300&photoreference=CoQBdwAAAMcA6NfFl2zjhJm2tSPRPouwke5b_C-ac5CAieL3rDR5Hk5HqfTH4oDPsyrbnZyHcz8CVaT12tDzEXa2v3ykQCkv69opNCwOk9kineTN6m_hpSi-F7OR7UHJH3kRIYBNLpUDktTnH1-fN_ZcHkvy9jQl2vV_7Drk-KxDOL0IfrUoEhBtdUR1_fiy1vIsZT-37OhdGhR-NVqx1iRlSnX1BJsl5tX4e1-BfA&key=AIzaSyAD-h-A9T5qhLG6K0RAyv7WX9oRH9NqQMg",
+                                "location": "37.3895562,-122.0909465",
+                                "name": "Tommy Thai",
+                                "phone": "(650) 988-6857",
+                                "photos_count": "1",
+                                "placeName": "Tommy Thai",
+                                "rating": "4.3",
+                                "telephone": "(650) 988-6857",
+                                "webUrl": "https://www.google.com/maps/place/Tommy+Thai/@37.3895562,-122.0909465?z=17"
+                            },
+                            "geoloc": [
+                                {
+                                    "distanceMeters": 1493.1320679943474,
+                                    "distanceMiles": 0.9277892532574437,
+                                    "latitude": 37.389557,
+                                    "longitude": -122.09095
+                                }
+                            ],
+                            "webUrl": "https://www.google.com/maps/place/Tommy+Thai/@37.3895562,-122.0909465?z=17"
+                        },
+                        "deviceActions": [],
+                        "entitySchema": "Place",
+                        "functionName": "",
+                        "furl": "func://maps.google.com/showPlaceByLocation/3531901940883759806",
+                        "stateAccessInfo": [
+                            {
+                                "accessUrl": "https://maps.google.com/?cid=3531901940883759806",
+                                "editions": [
+                                    {
+                                        "editionId": "qedition://googleplay/com.google.android.apps.maps?minVersion=926101103&maxVersion=926101103",
+                                        "maxVersion": "926101103",
+                                        "minVersion": "926101103",
+                                        "packageName": "com.google.android.apps.maps",
+                                        "platform": "android"
+                                    },
+                                    {
+                                        "editionId": "qedition://googleplay/com.google.android.apps.maps?minVersion=925101103&maxVersion=925101103",
+                                        "maxVersion": "925101103",
+                                        "minVersion": "925101103",
+                                        "packageName": "com.google.android.apps.maps",
+                                        "platform": "android"
+                                    },
+                                    {
+                                        "editionId": "qedition://googleplay/com.google.android.apps.maps?minVersion=923100103&maxVersion=923100103",
+                                        "maxVersion": "923100103",
+                                        "minVersion": "923100103",
+                                        "packageName": "com.google.android.apps.maps",
+                                        "platform": "android"
+                                    },
+                                    {
+                                        "editionId": "qedition://googleplay/com.google.android.apps.maps?minVersion=922201103&maxVersion=922201103",
+                                        "maxVersion": "922201103",
+                                        "minVersion": "922201103",
+                                        "packageName": "com.google.android.apps.maps",
+                                        "platform": "android"
+                                    },
+                                    {
+                                        "editionId": "qedition://googleplay/com.google.android.apps.maps?minVersion=907100103&maxVersion=907100103",
+                                        "maxVersion": "907100103",
+                                        "minVersion": "907100103",
+                                        "packageName": "com.google.android.apps.maps",
+                                        "platform": "android"
+                                    }
+                                ],
+                                "uri": "https://maps.google.com/?cid=3531901940883759806"
+                            }
+                        ],
+                        "useEntitySchema": true
+                    },
+                    {
+                        "deepViewContent": {
+                            "displayContent": {
+                                "@id": "func://maps.google.com/showPlaceByLocation/3969588137773531870",
+                                "@type": "Place",
+                                "@vertical": "Local",
+                                "address": "174-176 Castro St, Mountain View, CA 94041, United States",
+                                "cid": "3969588137773531870",
+                                "crawled": "2016-10-24T16:21:47Z",
+                                "created": "2016-10-24T16:21:47Z",
+                                "description": "\"The food here is great! I haven't found many good Thai places in the south bay but the food here is really good and the service is great as well. I got the pineapple red curry and I would recommend it.\" - Zander Clucas. \"Absolutely the best Thai food we have had for a long time. Fresh, excellent taste, great service and very reasonable price. Definitely coming back.\" - Patricia George",
+                                "expires": "2016-10-24T17:21:47Z",
+                                "geo": {
+                                    "latitude": 37.3942565,
+                                    "longitude": -122.0789767
+                                },
+                                "geometry.location.lat": "37.3942565",
+                                "geometry.location.lng": "-122.0789767",
+                                "geometry.viewport.northeast.lat": "37.39430135000001",
+                                "geometry.viewport.northeast.lng": "-122.078635",
+                                "geometry.viewport.southwest.lat": "37.39412195000001",
+                                "geometry.viewport.southwest.lng": "-122.0790906",
+                                "globalLocationNumber": "ChIJ6ycgPTS3j4AR3oKYKGHPFjc",
+                                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+                                "id": "972505b2ebfc4d7b473d491419fa0ce5efa08674",
+                                "image": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=300&photoreference=CoQBdwAAAEGeUzFcfd6FToPSc32yzKscD9Xwa4HVLWp7Wh2SJL3hqPz-6T8CfDnTgLv8Yef4VCo5u5Qa1YqtYKGEIYxIq_E2MHFW4qw082fhxZOKzkVOzgyOr8iO_8qMJ20PCWpb7-q2IhNK824ivO6tNKVswIwLRAlzxo5NOrlBp6q8MOXsEhDx006v0ZDdiFh8QqkMPK7JGhToe7jj2hrs1Z1ndb75zIsQ02uBpw&key=AIzaSyAD-h-A9T5qhLG6K0RAyv7WX9oRH9NqQMg",
+                                "location": "37.3942565,-122.0789767",
+                                "name": "Amarin Thai Cuisine",
+                                "phone": "(650) 988-9323",
+                                "photos_count": "1",
+                                "placeName": "Amarin Thai Cuisine",
+                                "rating": "3.8",
+                                "telephone": "(650) 988-9323",
+                                "webUrl": "https://www.google.com/maps/place/Amarin+Thai+Cuisine/@37.3942565,-122.0789767?z=17"
+                            },
+                            "geoloc": [
+                                {
+                                    "distanceMeters": 771.7060738328851,
+                                    "distanceMiles": 0.47951592315433184,
+                                    "latitude": 37.394257,
+                                    "longitude": -122.07898
+                                }
+                            ],
+                            "webUrl": "https://www.google.com/maps/place/Amarin+Thai+Cuisine/@37.3942565,-122.0789767?z=17"
+                        },
+                        "deviceActions": [],
+                        "entitySchema": "Place",
+                        "functionName": "",
+                        "furl": "func://maps.google.com/showPlaceByLocation/3969588137773531870",
+                        "stateAccessInfo": [
+                            {
+                                "accessUrl": "https://maps.google.com/?cid=3969588137773531870",
+                                "editions": [
+                                    {
+                                        "editionId": "qedition://googleplay/com.google.android.apps.maps?minVersion=926101103&maxVersion=926101103",
+                                        "maxVersion": "926101103",
+                                        "minVersion": "926101103",
+                                        "packageName": "com.google.android.apps.maps",
+                                        "platform": "android"
+                                    },
+                                    {
+                                        "editionId": "qedition://googleplay/com.google.android.apps.maps?minVersion=925101103&maxVersion=925101103",
+                                        "maxVersion": "925101103",
+                                        "minVersion": "925101103",
+                                        "packageName": "com.google.android.apps.maps",
+                                        "platform": "android"
+                                    },
+                                    {
+                                        "editionId": "qedition://googleplay/com.google.android.apps.maps?minVersion=923100103&maxVersion=923100103",
+                                        "maxVersion": "923100103",
+                                        "minVersion": "923100103",
+                                        "packageName": "com.google.android.apps.maps",
+                                        "platform": "android"
+                                    },
+                                    {
+                                        "editionId": "qedition://googleplay/com.google.android.apps.maps?minVersion=922201103&maxVersion=922201103",
+                                        "maxVersion": "922201103",
+                                        "minVersion": "922201103",
+                                        "packageName": "com.google.android.apps.maps",
+                                        "platform": "android"
+                                    },
+                                    {
+                                        "editionId": "qedition://googleplay/com.google.android.apps.maps?minVersion=907100103&maxVersion=907100103",
+                                        "maxVersion": "907100103",
+                                        "minVersion": "907100103",
+                                        "packageName": "com.google.android.apps.maps",
+                                        "platform": "android"
+                                    }
+                                ],
+                                "uri": "https://maps.google.com/?cid=3969588137773531870"
+                            }
+                        ],
+                        "useEntitySchema": true
+                    },
+                    {
+                        "deepViewContent": {
+                            "displayContent": {
+                                "@id": "func://maps.google.com/showPlaceByLocation/3898094067799291685",
+                                "@type": "Place",
+                                "@vertical": "Local",
+                                "address": "702 Villa St, Mountain View, CA 94041, United States",
+                                "cid": "3898094067799291685",
+                                "crawled": "2016-10-24T16:21:48Z",
+                                "created": "2016-10-24T16:21:48Z",
+                                "description": "\"Not too bad, fairly tasty food. Prices were fair as well for the portions!\" - Norman Cheung. \"Food was ok at best, service was less than OK. The place didn't smell fresh. 3 at best.\" - Varun Turlapati",
+                                "expires": "2016-10-24T17:21:48Z",
+                                "geo": {
+                                    "latitude": 37.3935385,
+                                    "longitude": -122.0779412
+                                },
+                                "geometry.location.lat": "37.3935385",
+                                "geometry.location.lng": "-122.0779412",
+                                "geometry.viewport.northeast.lat": "37.3935866",
+                                "geometry.viewport.northeast.lng": "-122.0779005",
+                                "geometry.viewport.southwest.lat": "37.3933942",
+                                "geometry.viewport.southwest.lng": "-122.0780633",
+                                "globalLocationNumber": "ChIJI6WUqTa3j4ARJfc71ObPGDY",
+                                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+                                "id": "a524df0103edcc7b3b3d9b85ce0e041d0fa2d223",
+                                "image": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=300&photoreference=CoQBcwAAAAOummV3SDCQUq9WXqGOguxRV_GxA7Qd5Z7RTYqk-VBqb_kyLFeyMCzTbnCe0ZEeO5u6RELRdykBRHYFjKfOK6ivVgkhAQ21FhV6yqIyMp7C7RnZrEY52o4ahVOqfJhwg59IS8EVfKyQVVKAkQEkpMI1rJC7mXu0q0KMPQz-ezIbEhDJv1wVgii8xM7Keh6LYrszGhRul9h31jNndOVg9SddSMb-JfCVDA&key=AIzaSyAD-h-A9T5qhLG6K0RAyv7WX9oRH9NqQMg",
+                                "location": "37.3935385,-122.0779412",
+                                "name": "Bangkok Spoon",
+                                "phone": "(650) 968-2038",
+                                "photos_count": "1",
+                                "placeName": "Bangkok Spoon",
+                                "rating": "3.4",
+                                "telephone": "(650) 968-2038",
+                                "webUrl": "https://www.google.com/maps/place/Bangkok+Spoon/@37.3935385,-122.0779412?z=17"
+                            },
+                            "geoloc": [
+                                {
+                                    "distanceMeters": 655.0335759553518,
+                                    "distanceMiles": 0.4070189940468612,
+                                    "latitude": 37.39354,
+                                    "longitude": -122.07794
+                                }
+                            ],
+                            "webUrl": "https://www.google.com/maps/place/Bangkok+Spoon/@37.3935385,-122.0779412?z=17"
+                        },
+                        "deviceActions": [],
+                        "entitySchema": "Place",
+                        "functionName": "",
+                        "furl": "func://maps.google.com/showPlaceByLocation/3898094067799291685",
+                        "stateAccessInfo": [
+                            {
+                                "accessUrl": "https://maps.google.com/?cid=3898094067799291685",
+                                "editions": [
+                                    {
+                                        "editionId": "qedition://googleplay/com.google.android.apps.maps?minVersion=926101103&maxVersion=926101103",
+                                        "maxVersion": "926101103",
+                                        "minVersion": "926101103",
+                                        "packageName": "com.google.android.apps.maps",
+                                        "platform": "android"
+                                    },
+                                    {
+                                        "editionId": "qedition://googleplay/com.google.android.apps.maps?minVersion=925101103&maxVersion=925101103",
+                                        "maxVersion": "925101103",
+                                        "minVersion": "925101103",
+                                        "packageName": "com.google.android.apps.maps",
+                                        "platform": "android"
+                                    },
+                                    {
+                                        "editionId": "qedition://googleplay/com.google.android.apps.maps?minVersion=923100103&maxVersion=923100103",
+                                        "maxVersion": "923100103",
+                                        "minVersion": "923100103",
+                                        "packageName": "com.google.android.apps.maps",
+                                        "platform": "android"
+                                    },
+                                    {
+                                        "editionId": "qedition://googleplay/com.google.android.apps.maps?minVersion=922201103&maxVersion=922201103",
+                                        "maxVersion": "922201103",
+                                        "minVersion": "922201103",
+                                        "packageName": "com.google.android.apps.maps",
+                                        "platform": "android"
+                                    },
+                                    {
+                                        "editionId": "qedition://googleplay/com.google.android.apps.maps?minVersion=907100103&maxVersion=907100103",
+                                        "maxVersion": "907100103",
+                                        "minVersion": "907100103",
+                                        "packageName": "com.google.android.apps.maps",
+                                        "platform": "android"
+                                    }
+                                ],
+                                "uri": "https://maps.google.com/?cid=3898094067799291685"
+                            }
+                        ],
+                        "useEntitySchema": true
+                    },
+                    {
+                        "deepViewContent": {
+                            "displayContent": {
+                                "@context": "qschema://2015/07/scrape/sopro/foursquare.com/scrape/localbusiness/scrape-context-v2.json",
+                                "@id": "func://foursquare.com/showVenueById/540fac89498e1f8dbfa13848",
+                                "@type": "LocalBusiness",
+                                "@vertical": "Local",
+                                "address": "Mountain View, CA,United States",
+                                "androidAppURL": "android-app://com.joelapenna.foursquared/http/foursquare.com/v/540fac89498e1f8dbfa13848",
+                                "category": "Thai Restaurant",
+                                "crawled": "2016-08-26T18:03:35Z",
+                                "created": "2016-08-26T18:03:35Z",
+                                "expires": "2016-11-24T18:03:35.000Z",
+                                "geo": {
+                                    "latitude": 37.400853,
+                                    "longitude": -122.057934
+                                },
+                                "httpStatusCode": 200,
+                                "image": "https://irs1.4sqi.net/img/general/600x600/113904_uRJk9TDyU1atQsB8AC_ZJRapzUOJ6_oapJj1PS1Y2ZI.jpg",
+                                "iosAppURL": "foursquare://venues/540fac89498e1f8dbfa13848",
+                                "locale": [
+                                    "en_US",
+                                    "en_IN"
+                                ],
+                                "name": "Simply Thai",
+                                "quality": 0.55,
+                                "rating": "5.5",
+                                "ratingCount": 15,
+                                "url": "https://foursquare.com/v/simply-thai/540fac89498e1f8dbfa13848",
+                                "userReviews": [
+                                    "The worst Thai food I have ever had. I never recommend!!!",
+                                    "Their teriyaki sauce is pretty good",
+                                    "Skip the roti paratha—far too greasy, taking away from any crispness that would be possible"
+                                ],
+                                "venueId": "540fac89498e1f8dbfa13848"
+                            },
+                            "geoloc": [
+                                {
+                                    "distanceMeters": 1981.2725177048153,
+                                    "distanceMiles": 1.2311056664733053,
+                                    "latitude": 37.400853,
+                                    "longitude": -122.057934
+                                }
+                            ],
+                            "webUrl": "https://foursquare.com/v/simply-thai/540fac89498e1f8dbfa13848"
+                        },
+                        "entitySchema": "LocalBusiness",
+                        "functionName": "",
+                        "furl": "func://foursquare.com/showVenueById/540fac89498e1f8dbfa13848",
+                        "stateAccessInfo": [
+                            {
+                                "accessUrl": "https://foursquare.com/v/540fac89498e1f8dbfa13848",
+                                "action": "android.intent.action.VIEW",
+                                "component": "com.joelapenna.foursquared/com.joelapenna.foursquared.BrowsableActivity",
+                                "editions": [
+                                    {
+                                        "editionId": "qedition://googleplay/com.joelapenna.foursquared?minVersion=2015022723&maxVersion=2015022723",
+                                        "maxVersion": "2015022723",
+                                        "minVersion": "2015022723",
+                                        "packageName": "com.joelapenna.foursquared",
+                                        "platform": "android"
+                                    }
+                                ],
+                                "extras": [],
+                                "jar": "StandardJSONIntent.jar",
+                                "method": "launchIntentViaJSON"
+                            },
+                            {
+                                "accessUrl": "foursquare://venues/540fac89498e1f8dbfa13848",
+                                "editions": [
+                                    {
+                                        "editionId": "qedition://googleplay/com.joelapenna.foursquared?minVersion=2015120918&maxVersion=2015120918",
+                                        "maxVersion": "2015120918",
+                                        "minVersion": "2015120918",
+                                        "packageName": "com.joelapenna.foursquared",
+                                        "platform": "android"
+                                    },
+                                    {
+                                        "editionId": "qedition://googleplay/com.joelapenna.foursquared?minVersion=2016012721&maxVersion=2016012721",
+                                        "maxVersion": "2016012721",
+                                        "minVersion": "2016012721",
+                                        "packageName": "com.joelapenna.foursquared",
+                                        "platform": "android"
+                                    },
+                                    {
+                                        "editionId": "qedition://googleplay/com.joelapenna.foursquared?minVersion=2016021816&maxVersion=2016021816",
+                                        "maxVersion": "2016021816",
+                                        "minVersion": "2016021816",
+                                        "packageName": "com.joelapenna.foursquared",
+                                        "platform": "android"
+                                    },
+                                    {
+                                        "editionId": "qedition://googleplay/com.joelapenna.foursquared?minVersion=2016031018&maxVersion=2016031018",
+                                        "maxVersion": "2016031018",
+                                        "minVersion": "2016031018",
+                                        "packageName": "com.joelapenna.foursquared",
+                                        "platform": "android"
+                                    },
+                                    {
+                                        "editionId": "qedition://googleplay/com.joelapenna.foursquared?minVersion=2016041315&maxVersion=2016041315",
+                                        "maxVersion": "2016041315",
+                                        "minVersion": "2016041315",
+                                        "packageName": "com.joelapenna.foursquared",
+                                        "platform": "android"
+                                    },
+                                    {
+                                        "editionId": "qedition://googleplay/com.joelapenna.foursquared?minVersion=2016042218&maxVersion=2016042218",
+                                        "maxVersion": "2016042218",
+                                        "minVersion": "2016042218",
+                                        "packageName": "com.joelapenna.foursquared",
+                                        "platform": "android"
+                                    },
+                                    {
+                                        "editionId": "qedition://googleplay/com.joelapenna.foursquared?minVersion=2016050918&maxVersion=2016050918",
+                                        "maxVersion": "2016050918",
+                                        "minVersion": "2016050918",
+                                        "packageName": "com.joelapenna.foursquared",
+                                        "platform": "android"
+                                    }
+                                ],
+                                "uri": "foursquare://venues/540fac89498e1f8dbfa13848"
+                            },
+                            {
+                                "accessUrl": "https://foursquare.com/v/540fac89498e1f8dbfa13848",
+                                "editions": [
+                                    {
+                                        "editionId": "qedition://googleplay/com.joelapenna.foursquared?minVersion=2015091123&maxVersion=2015091123",
+                                        "maxVersion": "2015091123",
+                                        "minVersion": "2015091123",
+                                        "packageName": "com.joelapenna.foursquared",
+                                        "platform": "android"
+                                    },
+                                    {
+                                        "editionId": "qedition://googleplay/com.joelapenna.foursquared?minVersion=2014121221&maxVersion=2014121221",
+                                        "maxVersion": "2014121221",
+                                        "minVersion": "2014121221",
+                                        "packageName": "com.joelapenna.foursquared",
+                                        "platform": "android"
+                                    }
+                                ],
+                                "uri": "https://foursquare.com/v/540fac89498e1f8dbfa13848"
+                            }
+                        ],
+                        "useEntitySchema": true
+                    }
+                ],
+                "functionName": "",
+                "geoSensitivity": 0,
+                "shouldRefresh": false,
+                "stateAccessInfo": [],
+                "ttlMinutes": 60
+            }
+        },
+        "func://restaurants-in-palo-alto?q=thai": {
+            "cardContent": {
+                "appName": "Restaurants in Palo Alto",
+                "summary": "University Ave has some of the best restaurants in the South Bay.",
+                "deepViews": [
+                    {
+                        "deepViewContent": {
+                            "displayContent": {
+                                "@id": "func://http://palo-a-a-s-s-alto.eat24hours.com/rangoon-ruby-palo-alto/41903",
+                                "@type": "Restaurant",
+                                "@vertical": "Local",
+                                "address": "445 Emerson St, Palo Alto, CA 94301",
+                                "areaServed": "Palo Alto",
+                                "image": "http://palo-alto.eat24hours.com/files/logo/41903.jpg",
+                                "name": "Rangoon Ruby",
+                                "servesCuisine": "Thai,Vegetarian,Seafood,Vietnamese,Chicken",
+                                "url": "http://palo-alto.eat24hours.com/rangoon-ruby-palo-alto/41903"
+                            }
+                        }
+                    },
+                    {
+                        "deepViewContent": {
+                            "displayContent": {
+                                "@id": "func://http://palo-al-a-a-s-s-s-s-to.eat24hours.com/vam-asian-fusion-restaurant/71084",
+                                "@type": "Restaurant",
+                                "@vertical": "Local",
+                                "address": "3487 El Camino Real , Palo Alto, CA 94306",
+                                "areaServed": "Palo Alto",
+                                "image": "http://palo-alto.eat24hours.com/files/logo/71084.png",
+                                "name": "VAM Asian Fusion Restaurant",
+                                "servesCuisine": "Thai,Vegetarian,Seafood,Vietnamese,Chicken",
+                                "url": "http://palo-alto.eat24hours.com/vam-asian-fusion-restaurant/71084"
+                            }
+                        }
+                    }
+                ],
+                "functionName": "",
+                "geoSensitivity": 4,
+                "shouldRefresh": false,
+                "stateAccessInfo": [
+                    {
+                        "accessUrl": "yelp:///search?find_desc=thai&find_loc=mountain view CA",
+                        "editions": [
+                            {
+                                "editionId": "qedition://googleplay/com.yelp.android?minVersion=15003903&maxVersion=15003903",
+                                "maxVersion": "15003903",
+                                "minVersion": "15003903",
+                                "packageName": "com.yelp.android",
+                                "platform": "android"
+                            }
+                        ],
+                        "uri": "yelp:///search?find_desc=thai&find_loc=mountain view CA"
+                    },
+                    {
+                        "accessUrl": "yelp:///search?find_desc=thai&amp;find_loc=mountain view CA",
+                        "editions": [
+                            {
+                                "editionId": "qedition://googleplay/com.yelp.android?minVersion=15003903&maxVersion=15003903",
+                                "maxVersion": "15003903",
+                                "minVersion": "15003903",
+                                "packageName": "com.yelp.android",
+                                "platform": "android"
+                            }
+                        ],
+                        "uri": "yelp:///search?find_desc=thai&amp;find_loc=mountain view CA"
+                    },
+                    {
+                        "accessUrl": "yelp:///search?find_desc=thai&find_loc=mountain view CA",
+                        "editions": [
+                            {
+                                "editionId": "qedition://googleplay/com.yelp.android?minVersion=15004603&maxVersion=15004603",
+                                "maxVersion": "15004603",
+                                "minVersion": "15004603",
+                                "packageName": "com.yelp.android",
+                                "platform": "android"
+                            }
+                        ],
+                        "uri": "yelp:///search?find_desc=thai&find_loc=mountain view CA"
+                    }
+                ],
+                "ttlMinutes": 1440
+            },
+            "editionIds": [
+                "qedition://googleplay/com.yelp.android"
+            ],
+            "type": "apiCloudDVC"
+        }
+    }
+}
